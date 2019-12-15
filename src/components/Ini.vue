@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="pricing-header px-3 py-3 pt-md-4 pb-md-4 mx-auto text-center">
+    <div class="container-sm col-lg-7 px-3 py-3 pt-md-4 pb-md-4 mx-auto text-center">
       <h1 class="display-4">Las aventuras de txuri, txari y txero</h1>
 
       <img class="front-image" src="/assets/image_0.jpg">
@@ -31,7 +31,7 @@
               He escrito este libro para ser leído. Si no tienes dinero, si no estás seguro o segura de si te va a gustar,
               no hace falta que pagues nada puedes leerlo y disfrutarlo completamente gratis.
             </p>
-            <a href="#" class="btn btn-primary">Leer gratis</a>
+            <router-link to="/read" class="btn btn-primary">Leer gratis</router-link>
           </div>
         </div>
         <div class="card mb-4 shadow-sm">
@@ -43,7 +43,7 @@
             <p class="card-text">
               Disfruta del libro en papel o en formato digital. Regálalo, compártelo, deja que tus hijos lo lean.
             </p>
-            <a href="#" class="btn btn-primary">Comprar el libro</a>
+            <router-link to="/buy" class="btn btn-primary">Comprar el libro</router-link>
           </div>
         </div>
       </div>
@@ -51,10 +51,20 @@
       <footer class="pt-4 my-md-5 pt-md-5 border-top">
         <div class="row">
           <div class="col-12 col-md">
-            <img class="mb-2" src="/docs/4.4/assets/brand/bootstrap-solid.svg" alt="" width="24" height="24">
-            <small class="d-block mb-3 text-muted">&copy; 2017-2019</small>
+
+            <a href="https://www.registeredcommons.org/grid/RC-01-LIZ0000002793-3"><img alt="Registered at RegisteredCommons.org" style="border-width:0" src="https://www.registeredcommons.org/rc.gif"/></a>
+            <div style="display:none">
+              <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">Las aventuras de txuri, txari y txero</span>
+              was created by <span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:title">Fernando Guillen</span>
+              on <span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:date">2019-12-14</span>.
+              License: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> http://creativecommons.org/licenses/by-nc-sa/4.0/ </a>.
+                Description: <span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:description">Libro de aventuras</span>
+            </div>
+
+            <small class="d-block mb-3 text-muted">&copy; 2019</small>
+
           </div>
-          <div class="col-6 col-md">
+          <!-- <div class="col-6 col-md">
             <h5>Features</h5>
             <ul class="list-unstyled text-small">
               <li><a class="text-muted" href="#">Cool stuff</a></li>
@@ -82,7 +92,7 @@
               <li><a class="text-muted" href="#">Privacy</a></li>
               <li><a class="text-muted" href="#">Terms</a></li>
             </ul>
-          </div>
+          </div> -->
         </div>
       </footer>
     </div>
