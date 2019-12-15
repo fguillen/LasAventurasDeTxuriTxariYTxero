@@ -1,0 +1,100 @@
+<template>
+</template>
+
+<script>
+  export default {
+    name: 'HelloWorld',
+    props: {
+      msg: String
+    }
+  }
+</script>
+
+<style scoped>
+.content {
+  margin-bottom: 80px;
+}
+
+.navbar {
+  font-family: sans-serif;
+}
+
+.navbar.top {
+  border-bottom: 1px solid #d6ceaf;
+}
+
+.navbar.bottom {
+  border-top: 1px solid #d6ceaf;
+}
+
+p {
+  font-size: 1.2em;
+  margin-bottom: 0;
+  text-indent: 1em;
+  line-height: 1.2em;
+}
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  line-height: 0.9em;
+  margin-top: 0.6em;
+  margin-bottom: 1em;
+}
+
+h2 {
+  font-size: 1.5em;
+  line-height: 1em;
+  margin-bottom: 1em;
+}
+
+h3 {
+  margin-top: 4em;
+  font-size: 1.2em;
+  text-align: center;
+  border-bottom: 1px solid #d6ceaf;
+  padding-bottom: 0.3em;
+}
+
+h3:last-of-type {
+  border-bottom: 0;
+}
+
+h3:first-of-type {
+  margin-top: 10em;
+}
+
+img {
+  max-width: 100%;
+  max-height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin: 1em 0 1em 0;
+}
+
+@media (min-width: 576px) {
+  h1 {
+    font-size: 4rem;
+  }
+
+  h2 {
+    font-size: 2.5em;
+  }
+
+  h3 {
+    font-size: 1.5em;
+  }
+}
+
+@media (min-width: 768px) {
+  p {
+    font-size: 1.5em;
+  }
+
+  h3 {
+    font-size: 1.8em;
+  }
+}
+
+</style>
