@@ -1,25 +1,10 @@
 <template>
   <div id="page-read" class="content container-sm col-lg-7">
-    <nav class="top navbar py-0 py-md-0 navbar-expand-md navbar-light bg-white sticky-top">
-      <router-link class="navbar-brand" to="/">txuri, txari y txero</router-link>
-      <button class="navbar-toggler mt-1" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <i class="fas fa-bars"></i>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item py-0">
-            <router-link class="nav-link" to="/contact">Contacto</router-link>
-          </li>
-          <li class="nav-item py-0">
-            <router-link class="nav-link" to="/buy">Comprar el libro</router-link>
-          </li>
-        </ul>
-      </div>
-    </nav>
+    <navbar></navbar>
 
     <vue-markdown :source="content" :postrender="addHeaderIds"></vue-markdown>
 
-    <nav class="container-sm col-lg-7 bottom py-0 py-md-0 navbar fixed-bottom navbar-light bg-white">
+    <nav class="bottom container-sm col-lg-7 py-0 py-md-0 navbar fixed-bottom navbar-light bg-white">
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link" :href="'#' + actualChapterId" v-on:click.prevent="goToChapter(actualChapterId, $event)"><i class="fas fa-angle-double-up"></i> {{ actualChapterTitle }}</a>
@@ -36,11 +21,13 @@
 
 <script>
   import VueMarkdown from 'vue-markdown'
+  import Navbar from './Navbar.vue'
 
   export default {
     name: 'Read',
     components: {
-      VueMarkdown
+      VueMarkdown,
+      Navbar
     },
     props: {
       msg: String
@@ -140,14 +127,6 @@
 <style>
   .content {
     margin-bottom: 80px;
-  }
-
-  .navbar {
-    font-family: sans-serif;
-  }
-
-  .navbar.top {
-    border-bottom: 1px solid #d6ceaf;
   }
 
   .navbar.bottom {

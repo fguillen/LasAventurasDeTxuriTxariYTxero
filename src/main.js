@@ -2,6 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import Ini from './components/Ini.vue'
 import Read from './components/Read.vue'
+import Buy from './components/Buy.vue'
 
 import VueRouter from 'vue-router'
 import VueScrollTo from 'vue-scrollto'
@@ -14,7 +15,8 @@ Vue.config.productionTip = false
 
 const routes = [
   { path: '/', component: Ini },
-  { path: '/read', component: Read }
+  { path: '/read', component: Read },
+  { path: '/buy', component: Buy }
 ]
 
 const router = new VueRouter({
