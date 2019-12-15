@@ -39,9 +39,10 @@
             <h4 class="my-0 font-weight-normal">Compra el libro</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">15 <small class="text-muted">euros</small></h1>
+            <h1 class="card-title pricing-card-title">25 <small class="text-muted">euros</small></h1>
             <p class="card-text">
-              Disfruta del libro en papel o en formato digital. Regálalo, compártelo, deja que tus hijos lo lean.
+              Disfruta del libro en papel o en formato digital. Compártelo, léelo junto con tus hijos o
+              deja que tus hijos lo lean. Regálaselo a algún amigo o amiga cuando lo hayáis terminado.
             </p>
             <router-link to="/buy" class="btn btn-primary">Comprar el libro</router-link>
           </div>

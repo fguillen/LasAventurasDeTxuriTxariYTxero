@@ -1,21 +1,23 @@
 <template>
-  <div id="page-read" class="content container-sm col-lg-7">
+  <div>
     <navbar></navbar>
 
-    <vue-markdown :source="content" :postrender="addHeaderIds"></vue-markdown>
+    <div id="page-read" class="content container-sm col-lg-7">
+      <vue-markdown :source="content" :postrender="addHeaderIds"></vue-markdown>
 
-    <nav class="bottom container-sm col-lg-7 py-0 py-md-0 navbar fixed-bottom navbar-light bg-white">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link" :href="'#' + actualChapterId" v-on:click.prevent="goToChapter(actualChapterId, $event)"><i class="fas fa-angle-double-up"></i> {{ actualChapterTitle }}</a>
-        </li>
-      </ul>
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" :href="'#' + nextChapterId" v-on:click.prevent="goToChapter(nextChapterId, $event)" v-if="nextChapterTitle">{{ nextChapterTitle }} <i class="fas fa-angle-double-down"></i></a>
-        </li>
-      </ul>
-    </nav>
+      <nav class="bottom container-sm col-lg-7 py-0 py-md-0 navbar fixed-bottom navbar-light bg-white">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" :href="'#' + actualChapterId" v-on:click.prevent="goToChapter(actualChapterId, $event)" v-if="actualChapterTitle"><i class="fas fa-angle-double-up"></i> {{ actualChapterTitle }}</a>
+          </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" :href="'#' + nextChapterId" v-on:click.prevent="goToChapter(nextChapterId, $event)" v-if="nextChapterTitle">{{ nextChapterTitle }} <i class="fas fa-angle-double-down"></i></a>
+          </li>
+        </ul>
+      </nav>
+    </div>
   </div>
 </template>
 
@@ -54,8 +56,13 @@
         var chapterUp = chaptersUp.slice(-1)[0];
         var chapterDown = chapters[chapters.indexOf(chapterUp) + 1]
 
-        this.actualChapterTitle = chapterUp.textContent;
-        this.actualChapterId = chapterUp.id;
+        if(chapterUp != null) {
+          this.actualChapterTitle = chapterUp.textContent;
+          this.actualChapterId = chapterUp.id;
+        } else {
+          this.actualChapterTitle = null;
+          this.actualChapterId = null;
+        }
 
         if(chapterDown != null) {
           this.nextChapterTitle = chapterDown.textContent;

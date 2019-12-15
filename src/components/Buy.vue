@@ -8,95 +8,23 @@
       <img class="front-image" src="/assets/book.png">
 
       <p class="lead">
-        txuri, txari y txero no son unos niños normales, ningún niño lo es.
-        txuri, txari y txero viven en nuestro mundo pero para ellos este mundo es algo diferente
-        gracias a su imaginación y a su manera de ver nuevos mundos se abren ante ellos,
-        nuevos y extraños amigos les acompañan. Acompáñales también tú.
+        Gracias por estar interesado/a en comprar "las aventuras de txuri, txari y txero" en formato
+        papel. Así podrás leerlo más cómodamente, o dejar que tu hijo/a lo lea él/ella misma. También
+        podrás regalarlo o dejarlo a quien quieras una vez que lo hayáis terminado.
       </p>
 
       <p class="lead">
-        Este libro ha sido creado con la intención de ser leído en voz alta, para disfrutar de una
-        experiencia lectora con tus hijos, llena de aventuras y de encuentros excitantes y llenos de emoción.
-        Un viaje por las experiencias, la comunicación, la imaginación y la intención de conocer al otro.
+        Todavía no he puesto la tienda online en marcha. Por favor envíame un email con tu dirección
+        y ya nos arreglamos con la forma de pago y de envío.
       </p>
-    </div>
 
-    <div class="container">
-      <div class="card-deck mb-3 text-center">
-        <div class="card mb-4 shadow-sm">
-          <div class="card-header">
-            <h4 class="my-0 font-weight-normal">Lee el libro</h4>
-          </div>
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title">Gratis</h1>
-            <p class="card-text">
-              He escrito este libro para ser leído. Si no tienes dinero, si no estás seguro o segura de si te va a gustar,
-              no hace falta que pagues nada puedes leerlo y disfrutarlo completamente gratis.
-            </p>
-            <router-link to="/read" class="btn btn-primary">Leer gratis</router-link>
-          </div>
-        </div>
-        <div class="card mb-4 shadow-sm">
-          <div class="card-header">
-            <h4 class="my-0 font-weight-normal">Compra el libro</h4>
-          </div>
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title">15 <small class="text-muted">euros</small></h1>
-            <p class="card-text">
-              Disfruta del libro en papel o en formato digital. Regálalo, compártelo, deja que tus hijos lo lean.
-            </p>
-            <router-link to="/buy" class="btn btn-primary">Comprar el libro</router-link>
-          </div>
-        </div>
-      </div>
+      <p class="h3">
+        <a href="mailto:fguillen.mail@gmail.com">fguillen.mail@gmail.com</a>
+      </p>
 
-      <footer class="pt-4 my-md-5 pt-md-5 border-top">
-        <div class="row">
-          <div class="col-12 col-md">
-
-            <a href="https://www.registeredcommons.org/grid/RC-01-LIZ0000002793-3"><img alt="Registered at RegisteredCommons.org" style="border-width:0" src="https://www.registeredcommons.org/rc.gif"/></a>
-            <div style="display:none">
-              <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">Las aventuras de txuri, txari y txero</span>
-              was created by <span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:title">Fernando Guillen</span>
-              on <span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:date">2019-12-14</span>.
-              License: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> http://creativecommons.org/licenses/by-nc-sa/4.0/ </a>.
-                Description: <span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:description">Libro de aventuras</span>
-            </div>
-
-            <small class="d-block mb-3 text-muted">&copy; 2019</small>
-
-          </div>
-          <!-- <div class="col-6 col-md">
-            <h5>Features</h5>
-            <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="#">Cool stuff</a></li>
-              <li><a class="text-muted" href="#">Random feature</a></li>
-              <li><a class="text-muted" href="#">Team feature</a></li>
-              <li><a class="text-muted" href="#">Stuff for developers</a></li>
-              <li><a class="text-muted" href="#">Another one</a></li>
-              <li><a class="text-muted" href="#">Last time</a></li>
-            </ul>
-          </div>
-          <div class="col-6 col-md">
-            <h5>Resources</h5>
-            <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="#">Resource</a></li>
-              <li><a class="text-muted" href="#">Resource name</a></li>
-              <li><a class="text-muted" href="#">Another resource</a></li>
-              <li><a class="text-muted" href="#">Final resource</a></li>
-            </ul>
-          </div>
-          <div class="col-6 col-md">
-            <h5>About</h5>
-            <ul class="list-unstyled text-small">
-              <li><a class="text-muted" href="#">Team</a></li>
-              <li><a class="text-muted" href="#">Locations</a></li>
-              <li><a class="text-muted" href="#">Privacy</a></li>
-              <li><a class="text-muted" href="#">Terms</a></li>
-            </ul>
-          </div> -->
-        </div>
-      </footer>
+      <p class="lead">
+        Prometo contestarte cuanto antes ;)
+      </p>
     </div>
   </div>
 </template>
