@@ -7,14 +7,14 @@
 
       <p class="lead">
         txuri, txari y txero no son unos niños normales, ningún niño lo es.
-        txuri, txari y txero viven en nuestro mundo pero para ellos este mundo es algo diferente
-        gracias a su imaginación y a su manera de ver nuevos mundos se abren ante ellos,
-        nuevos y extraños amigos les acompañan. Acompáñales también tú.
+        txuri, txari y txero viven en nuestro mundo pero para ellos este mundo es algo diferente.
+        Gracias a su imaginación, y a su especial manera de ver, nuevos mundos se abren ante ellos.
+        Nuevos y extraños amigos les acompañan. Acompáñalos también tú.
       </p>
 
       <p class="lead">
         Este libro ha sido creado con la intención de ser leído en voz alta, para disfrutar de una
-        experiencia lectora con tus hijos, llena de aventuras y de encuentros excitantes y llenos de emoción.
+        experiencia lectora con tus hijos. Una experiencia repleta de aventuras y de encuentros excitantes y llenos de emoción.
         Un viaje por las experiencias, la comunicación, la imaginación y la intención de conocer al otro.
       </p>
     </div>
@@ -28,8 +28,8 @@
           <div class="card-body">
             <h1 class="card-title pricing-card-title">Gratis</h1>
             <p class="card-text">
-              He escrito este libro para ser leído. Si no tienes dinero, si no estás seguro o segura de si te va a gustar,
-              no hace falta que pagues nada puedes leerlo y disfrutarlo completamente gratis.
+              He escrito este libro para ser leído. Si no tienes dinero o si no estás seguro o segura de si te va a gustar,
+              no hace falta que pagues nada, puedes leerlo y disfrutarlo completamente gratis.
             </p>
             <router-link to="/read" class="btn btn-primary">Leer gratis</router-link>
           </div>
@@ -102,10 +102,7 @@
 
 <script>
   export default {
-    name: 'HelloWorld',
-    props: {
-      msg: String
-    }
+    name: 'HelloWorld'
   }
 </script>
 

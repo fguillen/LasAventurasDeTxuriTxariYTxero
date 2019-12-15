@@ -31,9 +31,6 @@
       VueMarkdown,
       Navbar
     },
-    props: {
-      msg: String
-    },
     data() {
       return {
         content: "loading ...",

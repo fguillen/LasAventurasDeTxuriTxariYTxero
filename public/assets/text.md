@@ -206,9 +206,9 @@ En lo profundo de lo profundo está muy oscuro.
 
 txari y txero se miraron, aunque estaba todo oscuro se vieron porque también sabían mirarse con el corazón.
 
-— ¿De qué tienes miedo? — dijeron txuri y txero.
+— ¿De qué tienes miedo? — dijeron txari y txero.
 
-— En mi habitación, cuando está oscuro, los monstruos vienen a asustarme — dijo txuri avergonzado.
+— En nuestra habitación, cuando está oscuro, los monstruos vienen a asustarme — dijo txuri avergonzado.
 
 txari y txero estaban muy sorprendidos por las palabras de su amigo.
 
@@ -246,7 +246,7 @@ txari habló con el corazón a sus amigos los peces, necesitaba que les llevasen
 
 ![image alt text](/assets/image_20.jpg)
 
-Los peces sabían lo que tenían que hacer. Conocían todo los rincones a los que el agua llegaba y sabián un atajo para llegar hasta el mar más cercano a la casa de txuri, txari y txero. Desde ahí subirían por el río y desde allí, el paso más difícil, por las cañerías del edificio hasta la casa de txuri, txari y txero.
+Los peces sabían lo que tenían que hacer. Conocían todo los rincones a los que el agua llegaba y sabián un atajo para llegar hasta el mar más cercano a la casa de txuri, txari y txero. Desde ahí subirán por el río y desde allí, el paso más difícil, por las cañerías de la casa hasta encontrar un grifo por el que salir.
 
 ![image alt text](/assets/image_21.jpg)
 
@@ -296,7 +296,7 @@ Ahora no había tiempo que perder. Había una misión importante que cumplir. tx
 
 — Es de extrema importancia — dijo txero.
 
-Cuando llegaron a la habitación de txuri todo estaba en calma pero txuri seguía nervioso. txari se quedó con txuri para hacerle compañía mientras txero ...
+Cuando llegaron a la habitación de txuri, txari y txero todo estaba en calma pero txuri seguía nervioso. txari se quedó con txuri para hacerle compañía mientras txero ...
 
 — Ahora vuelvo — dijo txero —, te voy a presentar a alguien — y se metió en el armario.
 
@@ -324,11 +324,11 @@ Nuestro misterioso visitante del armario parecía que nunca se iba a atrever a s
 
 — Pero aquí hay alguien que me tiene miedo — dijo el monstruo con una voz extrañamente suave y delicada.
 
-Los monstruos de habitación tienen miedo del miedo. Es como una alergia que tienen. No puede aparecerse del todo si les tienes miedo porque entonces ellos tienen miedo. Sí, es un poco lío.
+Los monstruos de habitación tienen miedo del miedo. Es como una alergia que tienen. No pueden aparecerse del todo si les tienes miedo porque entonces ellos tienen miedo. Sí, es un poco lío.
 
 — txuri, sé que es difícil lo que te voy a pedir pero tienes que confiar en mí — dijo txari en voz baja —. No tienes que tener miedo del monstruo.
 
-txuri respiró profundamente, y, aunque era luchar contra sus instintos, confiaba plenamente en txari, así que salió de detrás de ella y se convenció para no tener miedo.
+txuri respiró profundamente y, aunque era luchar contra sus instintos, confiaba plenamente en txari, así que salió de detrás de ella y se convenció para no tener miedo.
 
 Nuestro verde visitante sintió inmediatamente la ausencia de miedo y salió por completo del armario.
 
@@ -338,9 +338,9 @@ Nuestro verde visitante sintió inmediatamente la ausencia de miedo y salió por
 
 — Hola txari — dijo el monstruo.
 
-Era evidente que se conocían de antes. txuri no podía creer lo que estaba pasando, estaba delante de monstruo de habitación y no tenía miedo, incluso empezaba a sentir que era bastante gracioso.
+Era evidente que se conocían de antes. txuri no podía creer lo que estaba pasando, estaba delante de un monstruo de habitación y no tenía miedo, incluso empezaba a sentir que era bastante gracioso.
 
-txari le explicó a txuri que los monstruos de habitación eran en realidad seres bondadosos. Que se encargan de vigilar los sueños de los niños para que duerman plácidamente y nada les pasase durante la noche.
+txari le explicó a txuri que los monstruos de habitación son en realidad seres bondadosos. Que se encargan de vigilar los sueños de los niños para que duerman plácidamente y nada les pasase durante la noche.
 
 — ¡Pero es verde! — dijo txuri.
 
@@ -374,7 +374,7 @@ txuri no podía estar más contento. Corrió y jugó con sus nuevos amigos. Se l
 
 Pero los monstruos no se podían quedar con txuri para siempre, tenían que cuidar del sueño de muchos otros niños así que se despidieron y se metieron en el armario. Silencio, risas, silencio y aparecieron txari y txero que se habían entretenido en el mundo de los monstruos.
 
-— ¡txari, txero!, he conocido a los monstruos de mi habitación — dijo txuri super contento. — Ya no tengo más que ganas de que llegue la hora de dormir para que se apaguen las luces y vuelvan a visitarme.
+— ¡txari, txero!, he conocido a los monstruos de nuestra habitación — dijo txuri super contento. — Ya no tengo más que ganas de que llegue la hora de dormir para que se apaguen las luces y vuelvan a visitarme.
 
 txari y txero se miraron y se sonrieron. "Misión cumplida", decía esa sonrisa. Su amigo ya no tenía miedo a los monstruos de habitación.
 
@@ -404,7 +404,7 @@ En efecto, desde algún lugar indeterminado de la habitación, se oía venir el 
 
 Ya no había ninguna duda, un tren se estaba acercando.
 
-— ¡Pero, ¡esto es imposible! — dijo txari.
+— ¡Pero!, ¡esto es imposible! — dijo txari.
 
 — Esperar aquí — dijo txuri y desapareció tras unas cortinas. Apareció de nuevo y con paso decidido atravesó la habitación sin rumbo aparente. Era algo extraño pero lo más extraño estaba por llegar: una pequeña locomotora de tren haciendo su característico ruido, parecía perseguir a txuri con determinación.
 
@@ -426,7 +426,7 @@ txari y txero tardaron unos segundo en reaccionar, todo era demasiado increíble
 
 — Pepepepe.. pero — repitió txero.
 
-txero tenía miedo, él nunca había conducido una locomotora, no sabía cómo hacerlo. txuri entendió en seguida e intentó darle seguridad a su amigo.
+txero tenía miedo, él nunca había conducido una locomotora, no sabía cómo hacerlo. txuri entendió enseguida que su amigo estaba un poco nervioso e intentó darle seguridad.
 
 — No te preocupes txero, es muy fácil, coge esta palanca — txuri le guió la mano a txero hasta la palanca de control.
 
@@ -440,7 +440,7 @@ A txero le costó un poco entender lo que txuri le estaba diciendo. Había agarr
 
 txero estaba un poco frustrado. ¿Cómo calmarse cuando se está nervioso?. No era fácil, la locomotora estaba en marcha y él tenía el control pero no podía entender a la locomotora y ella todavía no podía escucharle a él. Todo era demasiado emocionante.
 
-Y de pronto lo sintió, como una pequeña corriente eléctrica que le entraba por la mano en la que tenía la palanca de control y le hacía cosquillas en la espalda. Era ella, la locomotora. Sintió su fuerza y sus ruedas. Sintió las vías y sintió cosquillas cuando cambiaban de rail. Sintió la velocidad y el viento como si le diera en la cara y el calor de la caldera como si de su propia tripa se tratara. Sintió los frenos incluso podía manipularlos sólo con pensarlo. Supo que había un faro fundido porque lo sentía como si fuera suyo. La locomotora le estaba hablando.
+Y de pronto lo sintió, como una pequeña corriente eléctrica que le entraba por la mano en la que tenía la palanca de control, le recorría todo el cuerpo y le hacía cosquillas en la espalda. Era ella, la locomotora. Sintió su fuerza y sus ruedas. Sintió las vías y sintió cosquillas cuando cambiaban de rail. Sintió la velocidad y el viento como si le diera en la cara y el calor de la caldera como si de su propia tripa se tratara. Sintió los frenos e incluso podía manipularlos sólo con pensarlo. Supo que había un faro fundido porque lo sentía como si fuera suyo. La locomotora le estaba hablando.
 
 ![image alt text](/assets/image_33.jpg)
 
@@ -554,7 +554,7 @@ Los gemidos se oían ahora claramente.
 
 ![image alt text](/assets/image_40.jpg)
 
-Caminaron con cuidado de no hacer ruido como les habían enseñado las serpientes hasta llegar a una gran estancia. Era una estancia muy acogedora, mucho más decorada que el resto de la cueva. Tenía cuadros y estanterías con grandes libros viejos. Incluso había una chimenea donde chisporroteaba un agradable fuego.
+Caminaron con cuidado de no hacer ruido, como les habían enseñado las serpientes, hasta llegar a una gran estancia. Era una estancia muy acogedora, mucho más decorada que el resto de la cueva. Tenía cuadros y estanterías con grandes libros viejos. Incluso había una chimenea donde chisporroteaba un agradable fuego.
 
 — ¡Aaaaayyy!
 
@@ -592,15 +592,15 @@ Este era un misterio perfecto para txuri, txari y txero.
 
 — ¡¿Ruido?! ¡¿En mi cueva?¡ … ¡Ja! — dijo rápidamente el señor del bosque —. Aquí todas las criaturas son muy respetuosas y saben como moverse en silencio, especialmente las serpientes y especialmente si saben que estoy intentando dormir.
 
-Eso era bien cierto, nuestros amigos ya lo habían comprobado en su encuentro con las criaturas de la cueva, y ellos mismo habían aprendido a hacerlo.
+Eso era bien cierto, nuestros amigos ya lo habían comprobado en su encuentro con las criaturas de la cueva y ellos mismo habían aprendido a hacerlo.
 
 — ¡Uuhmmm! — empezó a decir txari —, ¿puede ser porque hay mucha luz?.
 
-—  ¡¿Luz?! ¡¿En mi cueva?¡ … ¡Ja! —, replicó el señor del bosque. — Aquí no hay más luz que la gentil luz de mi candil y el cálido brillo del fuego, nada de eso me molesta.
+—  ¡¿Luz?! ¡¿En mi cueva?¡ … ¡Ja! —, replicó el señor del bosque. — Aquí no hay más luz que la gentil luz de mi candil y el cálido brillo del fuego de la chimenea, nada de eso me molesta.
 
 — ¡Uuhmmm! — empezó a decir txuri —, ¿puede ser porque no hace suficiente ejercicio?.
 
-—  ¡¿Ejercicio?! ¡¿Yo?¡ — dijo el señor del bosque reclinándose en su cama para dar más énfasis a sus palabras. — Yo subo las 4 montañas de mi bosque todos los días para hablar con cada criatura y planta.
+—  ¡¿Ejercicio?! ¡¿Yo?¡ — dijo el señor del bosque reclinándose en su cama para dar más énfasis a sus palabras. — Yo subo las cuatro montañas de mi bosque todos los días para hablar con cada criatura y planta.
 
 — ¡Uuhmmmm! — empezó a decir txero —, pero no se le ocurrió nada más que pudiera ser.
 
@@ -626,7 +626,7 @@ Pero txuri y txero si que estaba intrigados pues sabían que txari había encont
 
 — Dinos, dinos — dijeron a la vez cuando txari estuvo lo suficientemente cerca.
 
-— ¿No os habéis fijado lo dura que es la cama del señor del bosque? — dijo a modo de introducción. — Lo que al señor del bosque le falta es algo que todos lo s niños tenemos y que no le prestamos mucha atención pero que sin embargo es de vital importancia … — y se detuvo ahí.
+— ¿No os habéis fijado lo dura que es la cama del señor del bosque? — dijo a modo de introducción. — Lo que al señor del bosque le falta es algo que todos los niños tenemos y que no le prestamos mucha atención pero que sin embargo es de vital importancia … — y se detuvo ahí.
 
 ![image alt text](/assets/image_44.jpg)
 
