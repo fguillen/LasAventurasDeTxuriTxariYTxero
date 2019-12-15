@@ -100,7 +100,10 @@
           offset: -80
         }
 
-        this.$scrollTo("#" + chapterId, 200, options)
+        this.$scrollTo("#" + chapterId, 200, options);
+
+        // Google Analytics
+        this.$gtag.event('read/' + chapterId, { method: 'Google' });
       },
       addHeaderIds: function(content) {
         console.log("addHeaderIds");
