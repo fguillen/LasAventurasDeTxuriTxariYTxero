@@ -15,21 +15,27 @@ Vue.config.productionTip = false
 
 const routes = [
   { path: '/', name: 'ini', component: Ini },
-  { path: '/read', name: 'read', component: Read },
+  { path: '/read', redirect: '/read/cover' },
+  { path: '/read/:chapterId', name: 'read', component: Read },
   { path: '/buy', name: 'buy', component: Buy }
 ]
 
 const router = new VueRouter({
   routes: routes,
-  scrollBehavior () {
-    return { x: 0, y: 0 }
-  }
+  scrollBehavior (to, from) {
+    console.log("scrollBehavior");
+    if(to.name == "read" && from.name == "read") {
+      return;
+    } else {
+      return { x: 0, y: 0 }
+    }
+  },
+  mode: "history"
 })
 
 Vue.use(VueGtag, {
   config: { id: "UA-154550284-1" },
-  appName: 'Las aventuras de txuri, txari y txero',
-  pageTrackerScreenviewEnabled: true
+  appName: 'Las aventuras de txuri, txari y txero'
 }, router);
 
 new Vue({

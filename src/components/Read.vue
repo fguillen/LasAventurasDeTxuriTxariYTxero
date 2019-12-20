@@ -3,7 +3,7 @@
     <navbar></navbar>
 
     <div id="page-read" class="content container-sm col-lg-7">
-      <vue-markdown :source="content" :postrender="addHeaderIds"></vue-markdown>
+      <vue-markdown :source="content" :postrender="postRenderContent"></vue-markdown>
 
       <nav class="bottom container-sm col-lg-7 py-0 py-md-0 navbar fixed-bottom navbar-light bg-white">
         <ul class="navbar-nav">
@@ -36,74 +36,121 @@
         content: "loading ...",
         actualChapterTitle: null,
         actualChapterId: null,
+        oldActualChapterId: null,
         nextChapterTitle: null,
         nextChapterId: null,
+        scrollSensitive: true
       }
     },
-    methods: {
-      actualChapter: function () {
-        var chapters = Array.from(document.querySelectorAll("h3, h1"));
-        var chaptersUp =
-          chapters.filter(function(element){
-            var rect = element.getBoundingClientRect();
-            var elemTop = rect.top;
-            return elemTop < 100;
-          });
+    // watch: {
+    //   $route(to, from) {
+    //     console.log("route change", to, from);
+    //   }
+    // },
+    mounted () {
+      console.log("Read mounted");
 
-        var chapterUp = chaptersUp.slice(-1)[0];
-        var chapterDown = chapters[chapters.indexOf(chapterUp) + 1]
+      window.setTimeout(this.goToChapterFromParams, 1000);
+    },
+    beforeMount () {
+      console.log("Read.beforeMount");
+      window.addEventListener('scroll', this.actualChapter);
 
-        if(chapterUp != null) {
-          this.actualChapterTitle = chapterUp.textContent;
-          this.actualChapterId = chapterUp.id;
-        } else {
-          this.actualChapterTitle = null;
-          this.actualChapterId = null;
-        }
-
-        if(chapterDown != null) {
-          this.nextChapterTitle = chapterDown.textContent;
-          this.nextChapterId = chapterDown.id;
-        } else {
-          this.nextChapterTitle = null;
-          this.nextChapterId = null;
-        }
-      },
-      updateChapters: function () {
-        console.log("updateChapters");
-        var chapters = Array.from(document.querySelectorAll("h3, h1"));
-        var chaptersHash = [];
-        chapters.forEach(function(chapter){
-          chaptersHash.push({
-            id: chapter.id,
-            text: chapter.textContent
-          })
+      fetch("/assets/text.md")
+        .then(text => text.text())
+        .then(text => {
+          this.content = text;
         });
-
-        this.chapters = chaptersHash;
-        console.log("chaptersHash", chaptersHash);
+    },
+    beforeDestroy () {
+      console.log("Read.beforeDestroy");
+      window.removeEventListener('scroll', this.actualChapter);
+    },
+    methods: {
+      goToChapterFromParams: function() {
+        console.log("Read.goToChapterFromParams");
+        this.goToChapter(this.$route.params.chapterId);
       },
-      afterRenderContent: function() {
-        console.log("afterRenderContent");
-        this.updateChapters();
-      },
-      goToChapter: function(chapterId, event) {
-        console.log("goToChapter", chapterId);
+      actualChapter: function () {
+        console.log("Read.actualChapter");
+        if(this.scrollSensitive) {
+          var chapters = Array.from(document.querySelectorAll("h3, h1"));
+          var chaptersUp =
+            chapters.filter(function(element){
+              var rect = element.getBoundingClientRect();
+              var elemTop = rect.top;
+              return elemTop < 100;
+            });
 
-        event.stopPropagation()
+          var chapterUp = chaptersUp.slice(-1)[0];
+          var chapterDown = chapters[chapters.indexOf(chapterUp) + 1]
+
+          if(chapterUp != null) {
+            this.actualChapterTitle = chapterUp.textContent;
+            this.actualChapterId = chapterUp.id;
+          } else {
+            this.actualChapterTitle = null;
+            this.actualChapterId = null;
+          }
+
+          if(chapterDown != null) {
+            this.nextChapterTitle = chapterDown.textContent;
+            this.nextChapterId = chapterDown.id;
+          } else {
+            this.nextChapterTitle = null;
+            this.nextChapterId = null;
+          }
+
+          // Chapter has changed?
+          if(this.actualChapterId != this.oldActualChapterId){
+            console.log("Chapter change to", this.actualChapterId, this.oldActualChapterId);
+            console.log("actualChapterId", this.actualChapterId);
+            console.log("oldActualChapterId", this.oldActualChapterId);
+            this.updatePath(this.actualChapterId);
+            this.oldActualChapterId = this.actualChapterId;
+          }
+        }
+      },
+      updatePath: function(chapterId) {
+        console.log("Read.updatePath", chapterId);
+        this.$router.push({ name: 'read', params: { chapterId: chapterId } }).catch(error => {
+          if (error.name == "NavigationDuplicated") {
+            console.log("Already in path");
+          } else {
+            throw error;
+          }
+        });
+        // this.$gtag.pageview({ page_path: this.$router.path });
+      },
+      goToChapter: function(chapterId) {
+        console.log("Read.goToChapter", chapterId);
 
         var options = {
           easing: 'ease-in',
-          offset: -80
+          offset: -80,
+          onStart: this.deactivateScrollSensitive,
+          onDone: this.activateScrollSensitive,
         }
 
         this.$scrollTo("#" + chapterId, 200, options);
+        this.updatePath(chapterId);
+      },
+      activateScrollSensitive: function() {
+        console.log("Read.activateScrollSensitive");
+        this.scrollSensitive = true
+      },
+      deactivateScrollSensitive: function() {
+        console.log("Read.deactivateScrollSensitive");
+        this.scrollSensitive = false;
+      },
+      postRenderContent: function(content) {
+        console.log("Read.postRenderContent", this.$route.params);
+        content = this.addHeaderIds(content);
 
-        // Google Analytics
-        this.$gtag.event('read/' + chapterId, { method: 'Google' });
+        return content;
       },
       addHeaderIds: function(content) {
-        console.log("addHeaderIds");
+        console.log("Read.addHeaderIds");
 
         // document.querySelectorAll("h3").forEach(element => {
         //   var chapterNumber = element.textContent.match(/\s([0-9]+)/);
@@ -116,16 +163,6 @@
 
         return content
       }
-    },
-    mounted () {
-      fetch("./assets/text.md")
-        .then(text => text.text())
-        .then(text => {
-          this.content = text;
-        });
-    },
-    beforeMount () {
-      window.addEventListener('scroll', this.actualChapter);
     }
 
   }
