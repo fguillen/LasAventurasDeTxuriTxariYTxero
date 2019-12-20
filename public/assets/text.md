@@ -224,7 +224,7 @@ txari y txero estaban muy sorprendidos por las palabras de su amigo.
 
 ## Cuando viajan por las cañerías y txuri conoce la fantástica verdad de los monstruos de su habitación
 
-txuri estaba muy confundido. No podía entender cómo podía ser que sus amigos no tuvieran miedo a los monstruos de su habitación.
+txuri estaba muy confundido. No podía entender cómo podía ser que sus amigos no tuvieran miedo a los monstruos de la habitación.
 
 — Pero ... ¿vosotros no tenéis miedo a los monstruos de nuestra habitación? — dijo.
 
@@ -674,9 +674,9 @@ Habían ayudado al gran señor del bosque y esto les llenaba de alegría, sentí
 
 Según salieron de la enorme cueva donde en sus profundidades dormía ahora plácidamente el gran señor del bosque se encontraron a todas las criaturas del bosque reunidas para agradecerles su ayuda. Se habían enterado de lo que había pasado porque en el bosque las noticias, especialmente las importantes, se transmiten muy rápidamente.
 
-Allí estaban los lobos con sus grandes colmillos y ojos profundos, sentados y mirando a nuestros amigos con respeto. También estaba la gran osa que se disculpó que no estuvieran también el gran oso y los pequeños oseznos pero era tarde y estaban durmiendo. Vinieron aves de todas las especies, incluidas el águila y el halcón que pocas veces se les veía juntos. Vinieron también las ratas y los ratones que juguetones y traviesos como siempre le hacían bromas a la tortuga haciendo le rabiar y sabiendo que siempre se podían escapar. Estaba también la reina de las hormigas con todo su séquito, sólo en ocasiones muy especiales dejaba el interior de su castillo subterráneo. Los escarabajos habían traído grandes bolas de estiércol que entregaron a txuri, txari y txero como ofrenda. Nuestros amigos estaban muy impresionados y aceptaron las bolas de estiércol con gratitud y las guardaron en sus bolsillos, no sabía muy bien qué hacer con ellas pero querían mostrar respeto a los escarabajos pues entendían cuál era el gran valor que estas bolas de estiércol tenían para ellos.
+Allí estaban los lobos con sus grandes colmillos y ojos profundos, sentados y mirando a nuestros amigos con respeto. También estaba la gran osa que se disculpó porque no estuvieran también el gran oso y los pequeños oseznos pero era tarde y estaban durmiendo. Vinieron aves de todas las especies, incluidas el águila y el halcón que pocas veces se les veía juntos. Vinieron también las ratas y los ratones que, como siempre, juguetones y traviesos le hacían bromas a la tortuga haciéndola rabiar y sabiendo que como eran más rápidos que ella siempre se podían escapar. Estaba también la reina de las hormigas con todo su séquito, sólo en ocasiones muy especiales dejaba el interior de su castillo subterráneo. Los escarabajos habían traído grandes bolas de estiércol que entregaron a txuri, txari y txero como ofrenda. Nuestros amigos estaban muy impresionados y aceptaron las bolas de estiércol con gratitud y las guardaron en sus bolsillos, no sabía muy bien qué hacer con ellas pero querían mostrar respeto a los escarabajos pues entendían cuál era el gran valor que estas bolas de estiércol tenían para ellos.
 
-Los árboles más cercanos traían saludos de agradecimiento de todos los árboles y plantas del bosque. Ellas no se podía mover pero se comunicaban entre sí mediante una red infinita de raíces que hacía que sus pensamiento atravesasen el bosque de punta a punta en menos de 1 segundo. Vino también el viento con su enorme rostro tan grande que no se puede ver pero que se puede sentir e incluso el río quiso venir al encuentro de nuestros amigos pero como su cauce estaba muy lejos se hizo traer unas pocas de sus gotas gracias a una nube amiga que las transportó hasta aquí y las dejó caer con su mensaje de gratitud en las mejillas de nuestros amigos.
+Los árboles más cercanos traían saludos de agradecimiento de todos los árboles y plantas del bosque. Ellas no se podía mover pero se comunicaban entre sí mediante una red infinita de raíces que hacía que sus pensamiento atravesasen el bosque de punta a punta en menos de un segundo. Vino también el viento con su enorme rostro tan grande que no se puede ver pero que se puede sentir e incluso el río quiso venir al encuentro de nuestros amigos pero como su cauce estaba muy lejos se hizo traer unas pocas de sus gotas gracias a una nube amiga que las transportó hasta aquí y las dejó caer con su mensaje de gratitud en las mejillas de nuestros amigos.
 
 ![image alt text](/assets/image_47.jpg)
 
@@ -686,7 +686,7 @@ Los árboles más cercanos traían saludos de agradecimiento de todos los árbol
 
 — Eh… —  logró decir txero que estaba más patidifuso que ninguno.
 
-Txari miró a txero y a txuri, txero miró a txuri y a txari, txuri miro a txari y a txero. No sabían muy bien a qué se debía tan efusivo encuentro y tampoco sabían como reaccionar.
+txari miró a txero y a txuri, txero miró a txuri y a txari, txuri miro a txari y a txero. No sabían muy bien a qué se debía tan efusivo encuentro y tampoco sabían como reaccionar.
 
 — Queridos amigos, — comenzó a decir la gran osa con una voz profunda y potente que retumbó en los picos de las montañas — no parecéis ser conscientes del gran favor que le habéis hecho a este bosque.
 
@@ -706,7 +706,9 @@ Ahora por fin, el gran señor del bosque podía dormir y descansar de su dura ta
 
 — ¡Hurra, hurra! — saltaban todas las criaturas con alegría.
 
-Y ya se sabe que ocurre cuando hay mucha alegría y muchos saltos, pues que en cualquier momento aparece una fiesta, y no hay mejor es fiestas que las fiestas del bosque. Las flores hacen bailes de colores, los ratones espectáculos trapecista, los lobos envuelven el ambiente con profundas y ululantes melodías, los pájaros increíbles coreografías en el aire, las serpientes son magníficas con los tambores, la gran osa es una formidable comediante, los árboles ofrecían sus frutos y los insectos bailaban y tocaban minúsculos instrumentos que tenían incorporados en sus cuerpos… todos reían y expresan su alegría de una manera particular.
+Y ya se sabe que ocurre cuando hay mucha alegría y muchos saltos, pues que en cualquier momento aparece una fiesta, y no hay mejores fiestas que las fiestas del bosque.
+
+Las flores hacen bailes de colores, los ratones espectáculos trapecista, los lobos envuelven el ambiente con profundas y ululantes melodías, los pájaros hacen increíbles coreografías en el aire, las serpientes son magníficas con los tambores, la gran osa es una formidable comediante, los árboles ofrecían sus frutos y los insectos bailaban y tocaban minúsculos instrumentos que tenían incorporados en sus cuerpos… todos reían y expresan su alegría de una manera particular.
 
 — txuri, txari, ¿habíais estado en una fiesta igual? — preguntó txero a sus amigos mientras saltaba de rama en rama sin miedo porque sabía que los árboles le protegían de caerse.
 
@@ -718,7 +720,7 @@ Y ya se sabe que ocurre cuando hay mucha alegría y muchos saltos, pues que en c
 
 Y poco a poco, cuando las criaturas ya había celebrado su alegría con plena satisfacción el bosque fué regresando a la calma.
 
-Txuri, txari y txero se sentaron en el suelo despedían a los último que quedaba de sus nuevos amigos que claro está eran los pequeños ratones que nunca les faltaban ganas de jugar.
+txari, txari y txero se sentaron en el suelo despedían a los últimos que quedaba de sus nuevos amigos que claro está eran los pequeños ratones que nunca les faltaban ganas de jugar.
 
 No se habían dado cuenta hasta ahora pero ya era entrada la noche, la luna brillaba intensa a través de los grandes árboles y proyectaba sombra que se movían al moverse las ramas  por el viento. Un escalofrío subió por las espaldas de nuestros amigos que aunque contaban con la simpatía de todo el bosque sabían que en la noche el bosque podía albergar inesperadas transformaciones y visitas de extrañas criaturas no eran infrecuentes.
 
@@ -728,7 +730,7 @@ No se habían dado cuenta hasta ahora pero ya era entrada la noche, la luna bril
 
 — Me apunto, me está dando un poco de miedo todas esta siniestras sombras que se están formando a nuestro alrededor — dijo txuri en un ataque de honestidad que sus amigos apreciaron y asintieron complacidos.
 
-— Si sólo supiéramos dónde está el camino — dijo txari y txero y txuri se miraron con los ojos muy abiertos y dijeron a la vez — ¡Estamos perdidos!
+— Si sólo supiéramos dónde está el camino — dijo txari, y txero y txuri se miraron con los ojos muy abiertos y dijeron a la vez — ¡Estamos perdidos!
 
 ![image alt text](/assets/image_51.jpg)
 
@@ -736,7 +738,7 @@ No se habían dado cuenta hasta ahora pero ya era entrada la noche, la luna bril
 
 ## Cuando reciben la protección de una pequeña gran guerrera y prueban un néctar que les transforma en mil trozos
 
-Normalmente estar perdidos es el inicio de una gran aventura y txari, txero y txuri les encanta perderse y por eso mismo es uno de sus juegos favoritos. Pero justo ahora, que empezaban a estar cansados querían sentirse en la comodidad de su casa, estar perdidos ahora mismo era todo un inconveniente.
+Normalmente estar perdidos es el inicio de una gran aventura y txari, txero y txuri les encanta perderse y por eso mismo es uno de sus juegos favoritos. Pero justo ahora, que empezaban a estar cansados, querían sentirse en la comodidad de su casa, estar perdidos ahora mismo era todo un inconveniente.
 
 — ¿Qué os pasa? Os noto preocupados — dijo una vocecita desde el suelo.
 
@@ -756,7 +758,7 @@ Normalmente estar perdidos es el inicio de una gran aventura y txari, txero y tx
 
 — Pues en verdad… — dijo txari que también se había arrodillado para ver claramente a la nueva amiga — es que estamos perdidos y no sabemos como volver a casa.
 
-— No os preocupéis, nosotras las hormigas os ayudaremos — dijo la guerrera adoptando una posición de firmes como un soldado orgulloso —, venir conmigo.
+— No os preocupéis, nosotras las hormigas os ayudaremos — dijo la guerrera adoptando una posición de firmes como un soldado orgulloso —, venid conmigo.
 
 ![image alt text](/assets/image_53.jpg)
 
@@ -764,49 +766,49 @@ txero, txuri y txari no sabían muy bien cómo reaccionar. ¿Qué podía hacer u
 
 — ¡Ya hemos llegado! — dijo nuestra amiga la hormiga deteniéndose en seco.
 
-— ¡ops! —  dijo txari que había tropezado con txuri.
+— ¡Ops! —  dijo txari que había tropezado con txuri.
 
-— ¡ouch! —  dijo txuri que había tropezado con txero.
+— ¡Ouch! —  dijo txuri que había tropezado con txero.
 
-— ¡ahi! — dijo txero que por poco se cae al no tener a nadie con quien tropezar.
+— ¡Ahi! — dijo txero que por poco se cae al no tener a nadie con quien tropezar.
 
-— Ésta es mi casa — dijo la hormiga apuntando a un pequeño montoncito de arena limpia y fina con un agujero minúsculo en el medio — aquí vivo yo y 1 millón de mis hermanas. Ésta es además la entrada del más enorme laberinto de túneles que podáis imaginar. Todos los hormigueros del bosque están unidos y todos saben de vuestras aventuras, ya hemos encontrado vuestra casa y estamos preparadas para guiaros por nuestros túneles.
+— Ésta es mi casa — dijo la hormiga apuntando a un pequeño montoncito de arena limpia y fina con un agujero minúsculo en el medio — aquí vivo yo y un millón de mis hermanas. Ésta es además la entrada del más enorme laberinto de túneles que podáis imaginar. Todos los hormigueros del bosque están unidos y todos saben de vuestras aventuras, ya hemos encontrado vuestra casa y estamos preparadas para guiaros por nuestros túneles.
 
 ![image alt text](/assets/image_54.jpg)
 
-— pero… — dijo txuri, y no continuó porque le parecía demasiado obvio cuál era el problema.
+— Pero… — dijo txuri, y no continuó porque le parecía demasiado obvio cuál era el problema.
 
-— no… — continuó txari.
+— ...no… — continuó txari.
 
-— ¡cabemos ahí! — dijo txero que quería ser conciso.
+— ...¡cabemos ahí! — dijo txero que quería ser conciso.
 
-— Bueno, bueno, no cabréis si os empeñáis en mantener vuestro cuerpo unido, claro! — dijo la hormiga elocuente.
+— Bueno, bueno, no cabréis si os empeñáis en mantener vuestro cuerpo unido, ¡claro! — dijo la hormiga en un tono elocuente.
 
-— pero… — dijo txuri que tampoco le parecía necesario terminar la frase
+— Pero… — dijo txuri que tampoco le parecía necesario terminar la frase
 
-— no… — le ayudó txari
+— ...no… — le ayudó txari
 
-— podemos dividir nuestro cuerpo — dijo txero terminando lo que sus amigos pensaban.
+— ...podemos dividir nuestro cuerpo — dijo txero terminando lo que sus amigos pensaban.
 
 — ¡Ai! ¡Ai!, pobres humanos, siempre tan cabezotas, se piensan que el mundo es como es sólo porque nunca han intentado algo diferente. Mirad — dijo la hormiga adoptando un tono de profesora de colegio infantil — las hormigas también somos un sólo cuerpo, todo nuestro hormiguero es un sólo cuerpo. Pero en lugar de tenerlo todo compacto y junto como os empeñáis en tenerlo vosotros, nosotras nos hemos dividido en pequeños trozos, 1 millón 430 mil 320 para ser exactos. Todas juntas formamos un solo ser, que piensa, siente, come, vive y muere como una única criatura. ¿Lo entendéis ahora?
 
 ![image alt text](/assets/image_55.jpg)
 
-— eh.. — dijo txari que en realidad todavía estaba impresionado de que una hormiga fuera tan inteligente y explicase tan bien las cosas
+— Eh.. — dijo txari que en realidad todavía estaba impresionado de que una hormiga fuera tan inteligente y explicase tan bien las cosas.
 
-— esto… — dijo txero que estaba intentando contar en su mente hasta 1 millón 430 mil 320 y llevaba 46.
+— Esto… — dijo txero que estaba intentando contar en su mente hasta 1 millón 430 mil 320 y llevaba 46.
 
 — ¡Está clarísimo! — dijo txuri, y txari y txero le miraron sorprendidos. — Tenemos que separar nuestro complejo cuerpo en muchas partes minúsculas más elementales así podremos viajar por los túneles del hormiguero.
 
 — Eh… — dijo txari que ya había decidio no entender nada.
 
-— Esto… — dijo txero que había perdido la cuenta cuando llevaba casi 60
+— Esto… — dijo txero que había perdido la cuenta cuando llevaba casi 60.
 
-— ¡Exacto! — dijo la hormiga
+— ¡Exacto! — dijo la hormiga.
 
-— ¿Pero cómo? — dijeron txari y txero a la vez y miraron a txuri con mirada interrogante. Pero txuri se encogió de hombros como señal de que él tampoco sabía la respuesta.
+— ¿Pero cómo? — dijeron txari y txero a la vez y miraron a txuri con mirada interrogante. Pero txuri se encogió de hombros en señal de que él tampoco sabía la respuesta.
 
-— Pues cómo se ha hecho siempre — dijo la hormiga guerrera con claridad — bebiendo néctar de hormiga.
+— Pues cómo se ha hecho siempre — dijo la hormiga guerrera con claridad —. Bebiendo néctar de hormiga.
 
 ![image alt text](/assets/image_56.jpg)
 
@@ -814,9 +816,9 @@ txero, txuri y txari no sabían muy bien cómo reaccionar. ¿Qué podía hacer u
 
 — ¡Me apunto! — dijo txuri que le encantaba probar cosas nuevas.
 
-— Genial, pero dónde podemos encontrar néctar de hormiga — dijo txari que tenía una corazonada inquietante.
+— Genial, pero ¿dónde podemos encontrar néctar de hormiga? — dijo txari que tenía una corazonada inquietante.
 
-— ¡Muy fácil! — dijo la hormiga — lo tengo aquí mismo — y se apuntó al centro de bola negra que formaba la parte final de su cuerpo.
+— ¡Muy fácil! — dijo la hormiga — lo tengo aquí mismo — y se apuntó al centro de la bola negra que formaba la parte final de su cuerpo.
 
 — ¡Ah! — dijo txuri con los ojos muy abiertos.
 
@@ -824,19 +826,19 @@ txero, txuri y txari no sabían muy bien cómo reaccionar. ¿Qué podía hacer u
 
 — ¿En el culo? — dijo txero no sólo abriendo los ojos sino también la boca — ¿el néctar lo tienes ahí?... y te sale por ahí… y nosotros tenemos que …
 
-— ¡Beberlo, sí! — terminó la frase la hormiga que ya se estaba impacientando y no entendía el titubeo de sus nuevos amigos — qué es lo que os parece extraño?. Todo lo que a una hormiga le sale de su parte de atrás es delicioso. No pasa lo mismo en lo humanos?
+— ¡Beberlo, sí! — terminó la frase la hormiga que ya se estaba impacientando y no entendía el titubeo de sus nuevos amigos — ¿qué es lo que os parece extraño?. Todo lo que a una hormiga le sale de su parte de atrás es delicioso. ¿No pasa lo mismo en lo humanos?
 
 ![image alt text](/assets/image_57.jpg)
 
-— No exactamente — dijo txero no queriendo entrar en detalles — pero vale! Entendido! Beberemos el néctar. ¿No es así txero? ¿txari?
+— No exactamente — dijo txero no queriendo entrar en detalles — pero ¡vale! ¡Entendido! Beberemos el néctar. ¿No es así txero? ¿txari?
 
 — Ssssi, sí — dijo txero convenciéndose.
 
-— Sssisi, sí, ¡claro! — dijo txari que estaba dispuesta a todo por enrolarse en una nueva aventura.
+— Sssisi, sí, ¡claro! — dijo txari que estaba dispuesta a todo con tal de enrolarse en una nueva aventura.
 
 — Entonces, cuando tú estés lista para dárnoslo nosotros lo beberemos — dijo txero sorprendentemente animado.
 
-Y los tres amigos se quedaron mirando fijamente a su nueva gran amiga sintiendo como subía por sus estómagos esa gran excitación que precede a una aventura. La hormiga también estaba disfrutando del momento, las hormigas son seres sumamente orgullosos y a ella también le gustaba ser parte importante de esta aventura.
+Y los tres amigos se quedaron mirando fijamente a su nueva gran amiga sintiendo como subía por sus estómagos esa gran excitación que precede a una nueva aventura. La hormiga también estaba disfrutando del momento, las hormigas son seres sumamente orgullosos y a ella también le gustaba ser parte importante de esta aventura.
 
 — En realidad, necesito un poco de vuestra ayuda — dijo la hormiga —, el néctar de una hormiga brota cuando sentimos una sensación de amistad muy fuerte.
 
@@ -852,7 +854,7 @@ Y los tres amigos se quedaron mirando fijamente a su nueva gran amiga sintiendo 
 
 Y uno a uno fueron acariciando a la hormiga que se mantuvo quieta pese al peligro que corría.
 
-Empezó txari, acercó su dedo índice hasta trocar la cabeza de la hormiga, notó como ésta cedía un poco bajo su presión, siguió bajando por la espalda manteniendo una presión suave pero firme, el tacto de la piel de la hormiga era misteriosamente agradable, duro y tenso, una pequeña vibración se transmitía a su dedo, posiblemente el corazón del pequeño ser, acelerado por la tensión, txari quiso transmitirle calma con su tacto, dibujó con cuidado la curva de su abultada espalda y llegó a la parte trasera, enorme, como la cabeza. Sintió un enorme agradecimiento hacia la hormiga por permitirle tocarla y este sentimiento llegó a la hormiga a través del tacto y de la forma de tocar de txari. El sentimiento de amistad estaba ahí y como confirmación una gota de un líquido de color dorado como el oro surgió de la parte trasera de la hormiga y txari lo recogió en la punta de su dedo.
+Empezó txari, acercó su dedo índice hasta trocar la cabeza de la hormiga, notó como ésta cedía un poco bajo su presión, siguió bajando por la espalda manteniendo una presión suave pero firme, el tacto de la piel de la hormiga era misteriosamente agradable, duro y tenso, una pequeña vibración se transmitía a su dedo, posiblemente el corazón del pequeño ser acelerado por la tensión. txari quiso transmitirle calma con su tacto. Dibujó con cuidado la curva de su abultada espalda y llegó a la parte trasera, enorme, como la cabeza. Sintió un inmenso agradecimiento hacia la hormiga por permitirle tocarla y este sentimiento llegó a la hormiga a través del tacto y de la forma de tocar de txari. El sentimiento de amistad estaba ahí y como confirmación una gota de un líquido de color dorado como el oro surgió de la parte trasera de la hormiga y txari lo recogió en la punta de su dedo.
 
 ![image alt text](/assets/image_58.jpg)
 
@@ -870,9 +872,9 @@ Y lo tres amigos pusieron sus tres dedos en sus tres bocas.
 
 ![image alt text](/assets/image_59.jpg)
 
-Y las bocas se les llenaron de una explosión de dulzura, era lo más rico que habían saboreado, sus lenguas danzaban sin control dentro de sus bocas y una sensación cálida entró por sus garganta y explosionó en sus estómagos. Cerraron los ojos sin control de sus párpados y en el siguiente instante su cuerpos se comprimieron un poco de una manera casi no visible pero definitivamente notable para ellos. Y en el siguiente segundo, con un sonido como el que hacen las pompas de jabón al explotar, sus cuerpos se expandieron pero ya no como una sola figura sino como cientos de miles de pequeñas partículas que formaron una nube y cayeron al suelo suavemente.
+Y las bocas se les llenaron de una explosión de dulzura, era lo más rico que habían saboreado, sus lenguas danzaban sin control dentro de sus bocas y una sensación cálida entró por sus garganta y explosionó en sus estómagos. Cerraron los ojos sin control de sus párpados y un instante después sus cuerpos se comprimieron un poco de una manera casi no visible pero definitivamente notable para ellos. Y en el siguiente segundo, con un sonido como el que hacen las pompas de jabón al explotar, sus cuerpos se expandieron pero ya no como una sola figura sino como cientos de miles de pequeñas partículas que formaron una nube y cayeron al suelo suavemente.
 
-Cuando llegaron al suelo, a las pequeñas partículas les salieron patas y sin que nadie las guiara se empezaron a agrupar en tres grupos.
+Cuando llegaron al suelo, a las pequeñas partículas les salieron patas y sin que nadie las guiara se empezaron a reunir en tres grupos.
 
 Eran txero, txari y txuri, se habían convertido en tres hormigueros compuestos por miles de hormigas cada uno…
 
@@ -882,7 +884,7 @@ Eran txero, txari y txuri, se habían convertido en tres hormigueros compuestos 
 
 — ¡Es muy extraño! — dijo txari también a través de miles de pequeñas voces.
 
-— ¡Jajajaja! — se reían todas las hormigas que formaban que formaban a txuri.
+— ¡Jajajaja! — se reían todas las hormigas que formaban a txuri.
 
 La gran guerrera hormiga miraba el caos que se estaba generando y como se consideraba responsable de la situación se subió a una piedra para que todas las hormigas pudieran verla y silbó fuerte y largamente.
 
@@ -892,13 +894,13 @@ Nuestros amigos ahora convertidos en hormigas volvieron sus miles de cabezas hac
 
 — ¡Es muy extraño! — dijeron las hormigas de txari también en la misma dirección.
 
-— ¡Jajajaja! — no podían parar de reír las hormigas de txuri.
+— ¡Jajajaja! — las hormigas de txuri no podían parar de reír.
 
 ![image alt text](/assets/image_61.jpg)
 
-— Tenéis que aprender a manejar vuestro nuevo cuerpo, ahora ya no tenéis sólo una o dos cosas de cada, ahora tenéis literalmente miles de cada cosa. Miles de cabezas, miles de brazos, miles de bocas, ... — Empezó a explicar la hormiga guerrera — todas y cada una de vuestras hormigas son un cuerpo completo que puede funcionar independientemente. Tratar de usar una de vuestras hormigas para hacer una cosa y otra diferente para hacer otra.
+— Tenéis que aprender a manejar vuestro nuevo cuerpo, ahora ya no tenéis sólo una o dos cosas de cada, ahora tenéis literalmente miles de cada cosa. Miles de cabezas, miles de brazos, miles de bocas, ... — Empezó a explicar la hormiga guerrera — todas y cada una de vuestras hormigas son un cuerpo completo que puede funcionar independientemente. Tratad de usar una de vuestras hormigas para hacer una cosa y otra diferente para hacer otra.
 
-Todas las hormigas que ahora formaban txuri, txari y txero estaban sumamente calladas y atentas a lo que su hermana guerrera les decía. Por un momento nada ocurrió, nuestros amigos ahora convertidos en miles de minúsculos cuerpos intentaban entender lo que la hormiga guerrera les había dicho. Se metieron dentro de sus pensamientos y empezaron a ver y a sentir todas sus partes, todas las hormigas por separado.
+Todas las hormigas que ahora formaban a txuri, txari y txero estaban sumamente calladas y atentas a lo que su hermana guerrera les decía. Por un momento nada ocurrió, nuestros amigos ahora convertidos en miles de minúsculos cuerpos intentaban entender lo que la hormiga guerrera les había dicho. Se metieron dentro de sus pensamientos y empezaron a ver y a sentir todas sus partes, todas las hormigas por separado.
 
 — ¡Uno! — dijo una hormiga de txero.
 
@@ -910,11 +912,11 @@ Todas las hormigas que ahora formaban txuri, txari y txero estaban sumamente cal
 
 — Ahora ...
 
-— lo ...
+— … lo ...
 
-— voy ...
+— … voy ...
 
-— entendiendo — dijeron una palabra cada vez distintas hormigas de txero.
+— … entendiendo — dijeron una palabra cada vez distintas hormigas de txero.
 
 — Muy bien — dijo la hormiga guerrera.
 
@@ -930,17 +932,17 @@ Las hormigas de txero corrían y saltaban sin orden aparente, pero había un con
 
 Cuando ya habían convencido a la hormiga guerrera de que habían aprendido a controlar sus nuevos cuerpos ésta los guió a la entrada del hormiguero.
 
-— Es muy importante que ahora vayamos todas de manera ordenada y en silencio — empezó a explicar la hormiga guerrera — un hormiguero es un lugar con una actividad frenética y no debemos molestar a nuestras hermanas que están trabajando. — Y mirando a sus miles de nuevas hermanas dijo: — vamos allá!.
+— Es muy importante que ahora vayamos todas de manera ordenada y en silencio — empezó a explicar la hormiga guerrera — un hormiguero es un lugar con una actividad frenética y no debemos molestar a nuestras hermanas que están trabajando. — Y mirando a sus miles de nuevas hermanas dijo: — ¡vamos allá!.
 
 ![image alt text](/assets/image_63.jpg)
 
 Y una hilera de miles y miles de hormigas empezó a entrar en el hormiguero guiada por la hormiga guerrera.
 
-Nada más entrar lo que más impresionó a nuestros amigos era la densa oscuridad que les rodeó. Pero inmediatamente después se dieron cuenta de algo que les impresionó aún más, pese a la gran oscuridad que les rodeaba podían verlo todo. Sus ojos eran inútiles aquí pero con un cosquilleo se dieron cuenta de que tenían otros nuevos sentidos, unos sentidos especiales que sólo tienes si eres una hormiga, o te conviertes en una cómo les ha pasado a txuri, txeri y txari. Las hormigas sienten las vibraciones a su alrededor, tienen además unas pequeñas antenas que les permiten transmitir sus pensamientos y sensaciones directamente de una hormiga a otra.
+Nada más entrar lo que más impresionó a nuestros amigos era la densa oscuridad que les rodeó. Pero inmediatamente después se dieron cuenta de algo que les impresionó aún más, pese a la gran oscuridad que les rodeaba podían verlo todo. Sus ojos eran inútiles aquí pero con un cosquilleo se dieron cuenta de que tenían otros nuevos sentidos, unos sentidos especiales que sólo tienes si eres una hormiga, o te conviertes en una, cómo les ha pasado a txuri, txero y txari. Las hormigas sienten las vibraciones a su alrededor, tienen además unas pequeñas antenas que les permiten transmitir sus pensamientos y sensaciones directamente de una hormiga a otra.
 
 Gracias a estos nuevos sentidos nuestros amigos podían sentir todo lo que estaba pasando en el hormiguero, sentían como veloces hormigas pasaban a su lado transportando comida hacia la despensa y otras transportaban con mucho cuidado bebés hormiga hacia las habitaciones más protegidas y calentitas.
 
-Algunas de las hormigas les acercaban sus antenas y comunicaban pequeños pensamientos con las hormigas de txuri, txari y txero. Es así como se enteraron de que todo el hormiguero estaba muy excitado con su visita. Estas conversaciones de antenas eran muy cortas porque aquí en el hormiguero todas las hormigas estaban muy ocupadas y todas estaban en mitad de algún importante trabajo.
+Algunas de las hormigas les acercaban sus antenas y comunicaban pequeños pensamientos con las hormigas de txuri, txari y txero. Es así cómo se enteraron de que todo el hormiguero estaba muy excitado con su visita. Estas conversaciones de antenas eran muy cortas porque aquí en el hormiguero todas las hormigas estaban muy ocupadas y todas estaban en mitad de algún importante trabajo.
 
 ![image alt text](/assets/image_64.jpg)
 
@@ -948,9 +950,9 @@ Algunas de las hormigas les acercaban sus antenas y comunicaban pequeños pensam
 
 — A ver a la reina, por su puesto — dijo la hormiga guerrera apenas volviendo la cabeza.
 
-A la hormiga de txari se le hizo un nudo en la minúscula garganta cuando oyó esto, y lo mismo le paso a todas sus hormigas porque bastaba que una sólo supiera algo para que todas las demás lo supieran. La última hormiga de txari le comunicó la noticia a una de las hormigas de txero y otra hormiga de txero también se lo dijo a otra hormiga de txuri. Ahora todas las hormigas de txari, txero y txuri tenían ahora un nudo en sus minúsculas gargantas.
+A la hormiga de txari se le hizo un nudo en la minúscula garganta cuando oyó esto, y lo mismo le paso a todas sus hormigas porque bastaba que sólo una supiera algo para que todas las demás lo supieran también. La última hormiga de txari le comunicó la noticia a una de las hormigas de txero y otra hormiga de txero también se lo dijo a otra hormiga de txuri. Todas las hormigas de txari, txero y txuri tenían ahora un nudo en sus minúsculas gargantas.
 
-Ya habían conocido a la hormiga reina en la fiesta del bosque, pero una cosa es verla cuando eres cientos de veces más grande que ella y otra es verla cuando te has convertido en pequeñas hormigas que fácilmente podrían caber entre las enormes mandíbulas de la reina.
+Ya habían conocido a la hormiga reina en la fiesta del bosque, pero una cosa es verla cuando eres cientos de veces más grande que ella y otra es verla cuando te has convertido en pequeñas hormigas que fácilmente podrían caber entre sus enormes mandíbulas.
 
 Mientras recorrían los túneles que les iban adentrando más y más hacia el centro del hormiguero ensayaban mentalmente saludos reales para usar cuando estuvieran en presencia de la hormiga reina.
 
@@ -962,15 +964,15 @@ De repente el túnel en el que estaban se ensanchó y la hormiga guerrera se det
 
 — ¡ouch!, ¡aich!, ¡uch!, ¡ah!, ¡ops!,¡um!, ¡eo!, ¡ups!, ¡oh!, ¡eh!, ¡ich!, ¡eps!, ¡ich!, ¡aj!, ¡oup!, ¡ar!, ¡hug!, ¡jo!, ¡eh!, ¡as!, ¡oj!, ¡ips!, ¡ojh!, ¡um!, ¡ep!, ... — hormiga tras hormiga tropezó torpemente con la que tenía delante, así miles de veces hasta llegar a la que estaba justo detrás de la hormiga guerrera que también tropezó y la empujó sin querer.
 
-— ¡uhm! — dijo la hormiga guerrera, un poco avergonzada de la torpeza de sus amigas pero consiguió no caerse y mantenerse orgullosa ante la presencia de la hormigas guardianas.
+— ¡uhm! — dijo la hormiga guerrera, un poco avergonzada de la torpeza de sus amigas, pero consiguió no caerse y mantenerse orgullosa ante la presencia de la hormigas guardianas.
 
-— La reina nos espera — les dijo a las hormigas guardianas la hormiga guerrera.
+— La reina nos espera — les dijo la hormiga guerrera a las hormigas guardianas.
 
 — Lo sabemos — dijeron las hormigas guardianas, se estaban divirtiendo con el espectáculo pero consiguieron controlar la risa aunque la que estaba más a la derecha no consiguió ocultar una sonrisa.
 
 Las hormigas guardianas empujaron las grandes cáscaras de nuez que formaban la puerta y una avalancha de vibraciones llegó hasta las antenas de las hormigas de nuestros amigos y de la hormiga guerrera. Aunque la oscuridad seguía siendo completa las hormigas de nuestros amigos percibieron el grandioso espectáculo que tenían delante.
 
-Ante ellos se abría una enorme sala, con sencillas pero hermosas decoraciones hechas con elementos del bosque. El techo estaba cubierto de hojas secas de todas las especies de árboles, alrededor de las sala había una estructura de portales y pasillos elevados hechos de ramitas entrecruzadas. En el suelo había una enorme alfombra echa de una sola pieza de hierbas trenzadas.
+Ante ellos se abría una enorme sala, con sencillas pero hermosas decoraciones hechas con elementos del bosque. El techo estaba cubierto de hojas secas de todas las especies de árboles, alrededor de las sala había una estructura de portales y pasillos elevados hechos de ramitas entrecruzadas. En el suelo había una enorme alfombra hecha de una sola pieza de hierbas trenzadas.
 
 Nuestros amigos podían sentir a través de sus nuevos sentidos que en la gran sala había una suave pero constante actividad, algunas hormigas venían trayendo comida, otras se iban llevando en sus brazos muy cuidadosamente a hormigas bebé recién nacidas, había doctores y consejeros de guerra, políticos y economistas. La gran sala era a la vez un cuartel general del ejército, un parlamento político, una gestoría económica, y cómo no, una sala de partos.
 
@@ -978,13 +980,13 @@ Nuestros amigos podían sentir a través de sus nuevos sentidos que en la gran s
 
 Entre todas las vibraciones había una tan intensa que hizo que las patas de todas las miles de hormigas de nuestros amigos se estremecieran. Esta vibración penetró dentro de las hormigas del cuerpo de txuri, txero y txari con una fuerza apabullante, la vibración lo impregnaba todo y txuri, txero y txari se sintieron completamente dominados por ella. Un mensaje llegaba a través de la vibración, nada concreto, no era un mensaje de palabras, era un mensaje de sensaciones. Sensaciones estremecedoras y sobrecogedoras por la fuerza que tenían pero también cálidas y acogedoras por el amor que transmitían.
 
-— ¿Lo sentís? — dijo la hormiga guerrera —, es nuestra reina. Es tan poderosa como cientos de guerreras pero también es nuestra madre y su energía está llena de fuerza pero también de amor.
+— ¿Lo sentís? — dijo la hormiga guerrera —, es nuestra reina. Es tan poderosa como cientos de guerreras pero también es nuestra madre, su energía está llena de fuerza pero también de amor.
 
 — ¡Es muy fuerte! — expresó una vocecita que venía de una de las hormigas de txuri.
 
 — ¡Es muy cálida! — describió una de las más pequeñas de las hormigas de txari
 
-— ¡Oiiii!! — dijo una de las hormigas de txero que todavía no sabía como describir las sensaciones que sentía.
+— ¡Oiiii! — dijo una de las hormigas de txero que todavía no sabía como describir las sensaciones que sentía.
 
 — Venid, acercaros — se oyó una voz que aunque suave y delicada parecía venir de todas partes — yo no puedo moverme, o mis bebés caerán al suelo.
 
@@ -994,11 +996,11 @@ La hormiga guerrera hizo indicaciones a nuestros amigos de que la siguieran, no 
 
 Cuando tuvieron a la hormiga reina delante se dieron cuenta de su enorme tamaño, su cabeza pendía del cielo encima de ellos a una distancia de diez hormigas, su cuerpo tenía dos partes, una de ellas enorme, tan grande como un casa, tenía forma de globo alargado y se notaba como dentro estaban pasando muchas cosas pues se movía, se estrujaba y se expandía por diferentes partes a la vez.
 
-La hormiga reina agachó el cuerpo y puso la cabeza a la altura de las hormigas de nuestros amigos, abrió la boca que estaba formada por un par de enormes mandíbulas en forma de gancho y exhaló una bocanada de aliento caliente.
+La hormiga reina agachó su cuerpo y puso su cabeza a la altura de las hormigas de nuestros amigos, abrió la boca que estaba formada por un par de enormes mandíbulas en forma de gancho y exhaló una bocanada de aliento caliente.
 
-txero, txuri y txari, en realidad las hormigas que los representaban, se quedaron de hielo. Habían ensayado mentalmente docenas de saludos reales y ahora que estaban delante de la reina no se atrevían a moverse, estaban muy preocupados de haber molestado a la reina con su falta de modales.
+txero, txari y txuri, en realidad las hormigas que los representaban, se quedaron de hielo. Habían ensayado mentalmente docenas de saludos reales y ahora que estaban delante de la reina no se atrevían a moverse, estaban muy preocupados de haber molestado a la reina con su falta de modales.
 
-Las antenas de la hormiga reina se acercaron a las antenas de las hormigas de txuri, txero y txari. Con un ritmo suave, lento, sin prisa, la hormiga reina fue deslizando sus antenas por las antenas de nuestros amigos. Nuestros amigos entraron en un baile de pensamientos con la hormiga reina, viajaron todos a un espacio donde instantáneamente todos se escuchaban sin necesidad de hablar. La hormiga reina les comunicó su respeto y su alegría por poder serles de ayuda. Nuestros amigos hablaron con torpeza pero con honestidad lo cual era lo que la reina más apreciaba:
+Las antenas de la hormiga reina se acercaron a las antenas de las hormigas de txero, txari y txuri. Con un ritmo suave, lento, sin prisa, la hormiga reina fue deslizando sus antenas por las antenas de nuestros amigos. Nuestros amigos entraron en un baile de pensamientos con la hormiga reina, viajaron todos a un espacio donde instantáneamente todos se escuchaban sin necesidad de hablar. La hormiga reina les comunicó su respeto y su alegría por poder serles de ayuda. Nuestros amigos hablaron con torpeza pero con honestidad lo cual era lo que la reina más apreciaba:
 
 — Es un honor que nos haya invitado a su hormiguero — dijo con el pensamiento txari que se sentía muy cómoda en presencia de la gran y amorosa reina.
 
@@ -1014,7 +1016,7 @@ La hormiga reina volvió a levantar la cabeza y una vibración de amable compasi
 
 — Así es, querida reina — contestó la hormiga guerrera guardando una posición de firmes como bien entrenada soldado.
 
-— ¿Preparado?, ¿el qué está preparado? — consiguió preguntar muy bajito la hormiga de txari en nombre de sus dos amigos.
+— ¿Preparado?, ¿el que está preparado? — consiguió preguntar muy bajito la hormiga de txari en nombre de sus dos amigos.
 
 — ¿Pues qué va a ser?, los túneles de viento para el transporte inter bosque — dijo la hormiga guerrera rompiendo su posición de firmes para hablarle muy bajito a las hormigas de nuestros amigos. — ¿No pensaréis que vamos a recorrer andando todo el camino hasta vuestra casa al otro lado del final del bosque?
 
@@ -1022,9 +1024,9 @@ La hormiga reina volvió a levantar la cabeza y una vibración de amable compasi
 
 ## Cuando regresan a casa y tienen un problema de forma
 
-— Pues adelante y buen viaje queridos amigos — dijo la hormiga reina que entró como en trance justo después de decir estas palabras.
+— ¡Pues adelante! y buen viaje queridos amigos — dijo la hormiga reina que entró como en trance justo después de decir estas palabras.
 
-txero, txuri y txari no sabían si habían escuchado bien. ¿"Túneles de viento para el transporte inter bosque"?. Eso sonaba a tecnología muy avanzada, nada que hubieran oído que las hormigas pudieran hacer. En realidad estaban aprendiendo más de las hormigas en esta aventura que lo que les habían enseñado en todas sus clases de biología.
+txari, txero y txuri no sabían si habían escuchado bien. ¿"Túneles de viento para el transporte inter bosque"?. Eso sonaba a tecnología muy avanzada, nada que hubieran oído que las hormigas pudieran hacer. En realidad estaban aprendiendo más de las hormigas en esta aventura que lo que les habían enseñado en todas sus clases de biología.
 
 Después de hablar con la reina hormiga se sentían como en una nube de paz, sabían que nada malo les podía pasar mientras estuvieran bajo su protección. Así que no dudaron ni un momento en seguir a su amiga la hormiga guerrera en silencio y en perfecta formación de miles de hormigas entre los intrincados túneles del hormiguero hacia aquellos misteriosos y excitantes "túneles de viento".
 
@@ -1042,7 +1044,7 @@ Después de andar algunos cientos de metros, que para una hormiga son bastantes,
 
 — Entendido — dijo una hormiga de txero, pero al instante siguiente se dió cuenta de que no había entendido nada —, ¿viento? ¿arrastrarnos? — continuó otra hormiga de txero confirmando sus todavía existentes dudas.
 
-— Así es: viento, arrastrarnos — dijo la hormiga guerrera — dirigió sus antenas a una de las hormigas ingenieras, intercambiaron unos pensamientos, y se volvió hacia las hormigas de txero, txari y txuri más cercanas — ¿Estáis preparados?
+— Así es: viento, arrastrarnos — dijo la hormiga guerrera. — Dirigió sus antenas a una de las hormigas ingenieras, intercambiaron unos pensamientos, y se volvió hacia las hormigas de txero, txari y txuri más cercanas — ¿Estáis preparados?
 
 — ¡Eh! — dijo una hormiga de txero
 
@@ -1050,9 +1052,9 @@ Después de andar algunos cientos de metros, que para una hormiga son bastantes,
 
 — Siii — dijeron todas las hormiga de txuri que tenía muchas ganas de probar los túneles de viento para el transporte inter bosque desde que había oído ese excitante nombre por primera vez.
 
-— Pues adelante!. Hormigas ingenieras, abran las compuertas — dijo la hormiga guerrera en la posición de firmes que tanto le gustaba adoptar cuando la ocasión lo merecía.
+— ¡Pues adelante!. Hormigas ingenieras, abran las compuertas — dijo la hormiga guerrera en la posición de firmes que tanto le gustaba adoptar cuando la ocasión lo merecía.
 
-Lo último que vieron nuestros amigos fue como todas las hormigas ingenieras se agarraron a unas minúsculas barandillas que había en un lado de la entrada del túnel. Lo siguiente que sintieron fue un enorme ruido que provenía de algún túnel que bajaba hacia ellos. Cuando el ruido los alcanzó ya estaban volando por los aires. Un fuerte y constante viento levantó a las miles de hormigas y los impulsó hacia las entrañas del túnel de viento. Era como viajar por el espacio, como si no hubiera gravedad.
+Lo último que vieron nuestros amigos fue como todas las hormigas ingenieras se agarraron a unas minúsculas barandillas que había en un lado de la entrada del túnel. Lo siguiente que sintieron fue un enorme ruido que provenía de algún túnel y que bajaba hacia ellos. Cuando el ruido los alcanzó ya estaban volando por los aires. Un fuerte y constante viento levantó a las miles de hormigas y las impulsó hacia las entrañas del túnel de viento. Era como viajar por el espacio, como si no hubiera gravedad.
 
 ![image alt text](/assets/image_70.jpg)
 
@@ -1066,9 +1068,9 @@ Pese a la enorme velocidad que estaban alcanzando el viaje no les estaba resulta
 
 Curva a la derecha, curva a la izquierda. Vieron como dejaron atrás entradas cerradas a otros túneles. txari, txero y txuri se imaginaron que estaban dentro de una red túneles mucho más grande, que seguramente comunicaban todo el bosque de punta a punta, y, ¿quién sabe? quizás todos los bosques del mundo entre sí. ¿Serían las hormigas de entre todas las criaturas de la Tierra las que habían inventado el sistema de transporte más rápido? se lo querían preguntar a la hormiga guerrera pero las emociones del viaje les hicieron olvidarse.
 
-— Ahora llega la frenada — consiguió decir la hormiga guerrera bien alto para que les consiguiera escuchar al menos una hormiga de cada uno de sus amigo. — Puede que os resulte un poco brusca.
+— ¡Ahora llega la frenada! — consiguió decir la hormiga guerrera bien alto para que les consiguiera escuchar al menos una hormiga de cada uno de sus amigos. — Puede que os resulte un poco brusca.
 
-De repente el viento se detuvo, y durante el tiempo que tardaron las hormigas en llegar al suelo éste desapareció, habían llegado al final del túnel y estaban a campo abierto, aún con el impulso del viaje salieron todas despedidas por un pequeño montículo de arena y una a una, las miles de ellas aterrizaron en el suelo no muy grácilmente, excepto nuestra amiga guerrera que con una voltereta cayó firmemente de pié y se quedó clavada en su famosa posición de firmes mientras veía el cómico espectáculo de las hormigas de txero, txuri y txari cayendo unas encima de otras y rodando por el suelo.
+De repente el viento se detuvo, y durante el tiempo que tardaron las hormigas en llegar al suelo éste desapareció, habían llegado al final del túnel y estaban a campo abierto, acompañadas aún con el impulso del viaje salieron todas despedidas por un pequeño agujero en la alto de un montículo de arena y una a una, las miles de ellas aterrizaron en el suelo no muy grácilmente, excepto nuestra amiga guerrera que con una voltereta cayó firmemente de pie y se quedó clavada en su famosa posición de firmes mientras veía el cómico espectáculo de las hormigas de txero, txuri y txari cayendo unas encima de otras y rodando por el suelo.
 
 ![image alt text](/assets/image_71.jpg)
 
@@ -1080,13 +1082,13 @@ De repente el viento se detuvo, y durante el tiempo que tardaron las hormigas en
 
 — ¡Vaya viaje más alucinante! — dijo una hormiga de txuri que ya era fan absoluto de los túneles de viento para transporte inter bosque.
 
-— A mí me falta una hormiga — dijo txari que podía presentir todo lo que le pasaba a cada una de sus hormigas — ¡estoy aquí! — se oyó una vocecita que salía del agujero por donde habían salido todas — me había quedado atascada — txari se sentía completa otra vez.
+— A mí me falta una hormiga — dijo txari que podía sentir todo lo que le pasaba a cada una de sus hormigas — ¡estoy aquí! — se oyó una vocecita que salía del agujero por donde habían salido todas — me había quedado atascada. — txari se sentía completa otra vez.
 
 La hormiga guerrera miró a la montaña de hormigas, cerró los ojos y los volvió a abrir. — Bien amigas — dijo pausadamente — ¿reconocéis este lugar? — Y extendió una mano hacia su espalda.
 
 txero, txuri y txari no tenían palabras, o sí:
 
-— ¡Estamos en casa! — dijo txari. Que fué la primera en darse cuenta, por que con la diferencia de dimensiones no era fácil reconocerla.
+— ¡Estamos en casa! — dijo txari. Que fué la primera en darse cuenta, porque con la diferencia de dimensiones no era fácil reconocerla.
 
 — Sí, ¡es el jardín de delante de casa! — dijo txero que por fín lo vió.
 
@@ -1096,7 +1098,7 @@ txero, txuri y txari no tenían palabras, o sí:
 
 La hormiga guerrera guardó otra vez silencio, seguía en su postura de firmes pues sabía que llegaba un momento solemne.
 
-— Aquí acaba nuestra parte del viaje juntas queridas hermanas hormigas. — dijo por fín sin poder contener la emoción de tristeza. — Tengo que volver a mi hormiguero y vosotras tenéis que volver a vuestra casa de humanos, yo no puedo acompañaros ahí, es demasiado peligroso.
+— Aquí acaba nuestra parte del viaje juntas queridas hermanas hormigas — dijo por fín sin poder contener la emoción de tristeza. — Tengo que volver a mi hormiguero y vosotras tenéis que volver a vuestra casa de humanos, yo no puedo acompañaros ahí, es demasiado peligroso.
 
 Las hormigas de txuri, txaro y txero que sabían como tratar a un amigo se acercaron a la hormiga guerrera y sin miedo a mostrar las lágrimas pero con una sonrisa de oreja a oreja le dieron miles de abrazos y le agradecieron de corazón su ayuda y el haberles enseñado tantas cosas interesantes sobre las hormigas.
 
@@ -1108,7 +1110,7 @@ Y justo cuando la hormiga guerrera iba a desaparecer por la entrada del túnel d
 
 — ¡Pero falta una cosa! — dijo — todavía somos hormigas, ¿cómo volveremos a nuestros cuerpos originales?
 
-— ¡Ah! sí — dijo la hormiga guerrera sin alterarse lo más mínimo — el efecto del néctar de hormiga tiene una duración limitada — aclaró — calculo que os quedarán como un par de horas. Estaos seguras de estar todas juntas y en un sitio espacioso cuando los efectos se pasen o cosas muy incómodas pueden ocurrir.
+— ¡Ah! sí — dijo la hormiga guerrera sin alterarse lo más mínimo — el efecto del néctar de hormiga tiene una duración limitada — aclaró, — calculo que os quedarán como un par de horas. Estaos seguras de estar todas juntas y en un sitio espacioso cuando los efectos se pasen o cosas muy incómodas pueden ocurrir.
 
 Y después de saludar a nuestras amigas con la mano, dio un salto y desapareció absorbida por el túnel de viento.
 
@@ -1118,9 +1120,9 @@ Era bueno saber que había una entrada a los túneles de viento justo en el jard
 
 ## Cuando se acaba nuestra historia y otra quizás mucho más grande esté a punto de comenzar
 
-txuri, txero y txuri miraron hacia la inmensa puerta de la entrada de su casa, era tan grande que no podían ver claramente donde acababa la parte de arriba.
+txari, txero y txuri miraron hacia la inmensa puerta de la entrada de su casa, era tan grande que no podían ver claramente donde acababa la parte de arriba.
 
-— ¡Adelante!, ¡entremos en el castillo! — dijeron las hormigas de txero que ya estaban formando una fila y se dirigían hacía la minúscula ranura que se abría debajo de la puerta.
+— ¡Adelante!, ¡entremos en el castillo! — dijeron las hormigas de txero que ya estaban formando una fila y se dirigían hacía la minúscula ranura que quedaba libre debajo de la puerta.
 
 Cuando la primera hormiga de txero desapareció por la ranura las hormigas de txari y txuri se unieron a la fila.
 
@@ -1128,13 +1130,13 @@ Miles y miles de hormigas entraban en la casa, formando una ordenada fila. Silen
 
 ![image alt text](/assets/image_73.jpg)
 
-Una vez dentro sus nuevos instintos de hormiga les hicieron percibir la casa de una manera que nunca lo habían hecho. Podían percibir las vibraciones de los distintos materiales, de las alfombras, del sofá. Eran también capaces de escuchar la electricidad que pasaba por los cables y de encontrar olores que nunca habían olido antes, el olor del azúcar que venía de la cocina era especialmente seductor.
+Una vez dentro sus nuevos instintos de hormiga les hicieron percibir la casa de una manera que nunca lo habían hecho. Podían percibir las vibraciones de los distintos materiales, de las alfombras, del sofá. Eran también capaces de escuchar la electricidad que pasaba por los cables y de detectar olores que nunca habían olido antes, el olor del azúcar que venía de la cocina era especialmente seductor.
 
 Encontraron migas en el suelo del desayuno de algún otro día, y algunas de las hormigas de txero, txari y txuri no tuvieron ningún reparo en comérselas. El estómago de las hormigas es muy fuerte y no se enferma por comer cosas del suelo.
 
 Se contuvieron las ganas de dirigirse a la cocina y comerse todo lo que estuviese abierto sabían que no tenían mucho tiempo y querían que el cambio de forma cuando se les pasase el efecto del néctar de hormiga les encontrase en su habitación donde no tenían peligro de hacer ningún desastre.
 
-— ¡Por aquí!, he encontrado las escaleras — dijo una hormiga de txari que ya estaba subiendo los escalones que llevaban a su habitación. Todas las hormigas de txari iban detrás. Y las hormigas de txero y txuri también la siguieron.
+— ¡Por aquí!, he encontrado las escaleras — dijo una hormiga de txari que ya estaba subiendo los escalones que llevaban a la habitación. Todas las hormigas de txari iban detrás. Y las hormigas de txero y txuri también la siguieron.
 
 ![image alt text](/assets/image_74.jpg)
 
@@ -1146,15 +1148,15 @@ Cuando recorren largas distancias a las hormigas les gusta ir en fila, así nunc
 
 — ¿Qué pasa? — dijo una hormiga de txuri, y luego otra, y luego otra, y luego otra. Susurrando como las de sus amigos.
 
-Una hormiga de txero señaló con una de sus patas delanteras hacia arriba, hacia una esquina del techo justo en la parte de arriba de la puerta de su habitación. Luego otra hormiga de txero también apuntó en la misma dirección, y luego otra, y luego otra, y luego otra.
+Una hormiga de txero señaló hacia arriba con una de sus patas delanteras, en dirección a una esquina del techo justo en la parte superior de la puerta de su habitación. Luego otra hormiga de txero también apuntó en la misma dirección, y luego otra, y luego otra, y luego otra.
 
 Las hormigas de txuri y txari, todas a las vez, miraron en esa dirección y cuando consiguieron reconocer lo que estaban viendo se quedaron petrificadas en el sitio.
 
 — ¡Es una araña! — dijo una hormiga de txuri muy muy bajito, y luego otra, y luego otra.
 
-— Y es gigante — dijo una hormiga de txari, y las demás callaron
+— Y es gigante — dijo una hormiga de txari, y las demás callaron.
 
-— No os mováis — dijo una hormiga de txero — la conozco bien, siempre está en esa esquina, se pasa la mayor parte del día durmiendo en su tela de araña, estoy seguro de que ahora mismo está durmiendo la siesta, si no hacemos ruido seguro que ni se entera de que estamos pasando.
+— No os mováis — dijo una hormiga de txero —, la conozco bien, siempre está en esa esquina, se pasa la mayor parte del día durmiendo en su tela de araña, estoy seguro de que ahora mismo está durmiendo la siesta, si no hacemos ningún ruido seguro que ni se entera de que estamos pasando por debajo suyo.
 
 ![image alt text](/assets/image_75.jpg)
 
@@ -1162,27 +1164,27 @@ Las hormigas de txuri y txari, todas a las vez, miraron en esa dirección y cuan
 
 — Seguro que no lo hará, ¿verdad txero? — dijo una hormiga de txuri en tono suplicante.
 
-— Seguro que no — dijo una hormiga de txero que estaba convencido de las capacidades durmientes de la araña, — andemos muy despacito.
+— Seguro que no — dijo una hormiga de txero pues estaba convencido de las capacidades durmientes de la araña, — andemos muy despacito.
 
 Las hormigas de txero fueron las primeras en ponerse en movimiento. Luego las hormigas de txari y por último las de txuri que de los nervios tropezaban unas con otras.
 
 Cuando habían avanzado unos peldaños más y sólo unos pocos les quedaba para llegar al final de la escalera y a la seguridad de su habitación, la araña abrió los ojos. Sus cientos de ojos. Bostezó y al hacerlo abrió una enorme y oscura boca rodeada de mandíbulas con dientes de sierra. Cuando las hormigas de txuri, txari y txero vieron esa boca sintieron como si su profundidad les atrajese y ya estuvieran cayendo en su interior.
 
-La araña al ver la gran fila de las hormigas de txuri, txari y txero estiró las patas de la sorpresa y apunto estuvo de caerse de su tela de araña. Preparó un hilo lo ató fuertemente y saltó al vació en una caída controlada como sólo las ágiles arañas saben hacer. Justo antes de llegar al suelo detuvo la caída agarrándose al hilo y giró su cuerpo para mirar a las hormigas que le devolvían la mirada completamente paralizadas del pánico.
+La araña al ver la gran fila de las hormigas de txuri, txari y txero estiró las patas de la sorpresa y apunto estuvo de caerse de su tela de araña. Preparó un hilo, lo ató fuertemente y saltó al vació en una caída controlada como sólo las ágiles arañas saben hacer. Justo antes de llegar al suelo detuvo la caída agarrándose al hilo y giró su cuerpo para mirar a las hormigas de txuri, txari y txero que le devolvían la mirada completamente paralizadas del pánico.
 
 ![image alt text](/assets/image_76.jpg)
 
-— ¡Vosotros debéis ser txuri, txari y txero! — dijo la araña con voz agradable y formando una gran sonrisa con su enorme boca negra llena de mandíbulas. — Debéis perdonarme, creo que me he quedado dormida y no os he oído llegar. ¿Estáis todas bien?, ¿hay alguna hormiga herida? — continuó dirigiéndose a las hormigas de nuestros amigos y escudriñando con sus cientos de ojos a todas las hormigas.
+— ¡Vosotros debéis ser txuri, txari y txero! — dijo la araña con voz agradable y formando una gran sonrisa con su enorme boca negra llena de mandíbulas. — Debéis perdonarme, creo que me he quedado dormida y no os he oído llegar. ¿Estáis todas bien?, ¿hay alguna hormiga herida? — continuó dirigiéndose a las hormigas de nuestros amigos y escudriñando con sus cientos de ojos a todas ellas.
 
 txero, txari y txuri estaban todavía petrificados y todavía ninguna de sus hormigas se atrevía a decir nada.
 
-— Vaya, parece que os ha comido la lengua una araña — dijo la araña columpiándose en su hilo y echando el cuerpo hacia atrás mientras vertía una larga carcajada y movía sus patas en el aire. — jaja, perdonarme — intentaba decir la araña entre carcajada y carcajada. — jaja, esperar, por favor — seguían intentado decir la araña que se le notaba que tenía dificultades para respirar de tanto reírse. — uff, ya — dijo la araña al cabo de un rato un poco más calmada y recobrando el aliento. — Tenéis que perdonarme, pero deberías veros la cara y con qué ojos me miráis. No os voy a hacer nada, — dijo en tono tranquilizador — en realidad, a las arañas no nos gustan las hormigas, las encontramos un poco duras. Nos gustan más los mosquitos, uhmm, si son pequeñitos mejor — decía la araña y una lengua seca y negra asomó por su gran boca llena de mandíbulas y acarició sus labios — ¿no tendréis alguno por ahí? — preguntó con esperanzas.
+— Vaya, parece que os ha comido la lengua una araña — dijo la araña columpiándose en su hilo y echando el cuerpo hacia atrás mientras vertía una larga carcajada y movía sus patas en el aire. — jaja, perdonarme — intentaba decir la araña entre carcajada y carcajada. — jaja, esperar, por favor — seguían intentado decir la araña que se le notaba que tenía dificultades para respirar de tanto reírse. — ¡Uff!, ya — dijo la araña al cabo de un rato un poco más calmada y recobrando el aliento. — Tenéis que perdonarme, pero deberías veros la cara y con qué ojos me miráis. Es como si pensaseis que os iba a comer. No os voy a hacer nada, — dijo en tono tranquilizador — en realidad, a las arañas no nos gustan las hormigas, las encontramos... un poco duras. Nos gustan más los mosquitos, uhmm, si son pequeñitos mejor — decía la araña y una lengua seca y negra asomó por su gran boca llena de mandíbulas y acarició sus labios — ¿no tendréis alguno por ahí? — preguntó con esperanzas.
 
 — La verdad es que no — dijo una hormiga de txari, que todavía no se sentía muy segura pero que creía que debía contestar.
 
 ![image alt text](/assets/image_77.jpg)
 
-— Es una pena — dijo la araña. — Veréis, — continuó cambiando de tema y de postura, ahora en un tono más serio, — mis amigas del bosque me informaron de que estarías viniendo y me encargaron de que me asegurase de que nos os pasara nada. Casi me quedo dormida del todo y me pierdo vuestra llegada, qué vergüenza, espero que no os haya pasado nada.
+— Es una pena — dijo la araña. — Veréis, — continuó, cambiando de tema y de postura, ahora en un tono más serio, — mis amigas del bosque me informaron de que estarías viniendo y me encargaron de que me asegurase de que nos os pasara nada. Casi me quedo dormida del todo y me pierdo vuestra llegada, qué vergüenza, espero que estéis todas bien.
 
 — Estamos todas bien — dijo una hormiga txuri que estaba ya convencido de que habían encontrado otra nueva amiga.
 
@@ -1190,7 +1192,7 @@ txero, txari y txuri estaban todavía petrificados y todavía ninguna de sus hor
 
 — Y hemos conocido a muchas criaturas y hemos hecho muchos nuevos amigos — dijo una hormiga de txero que le parecía fantástico poder estar hablando con la araña que siempre veía en el techo de las escaleras.
 
-— Me alegro mucho — dijo la araña sonriente, — entonces, si no os parece mal, vuelvo a mi telaraña, creo que puedo echar una siesta antes de la hora de la siguiente comida — dijo mientras empezaba a trepar suavemente por su hilo. — ¿Seguro que no tenéis ningún mosquito con vosotras, aunque sea pequeñito? — preguntó a la desesperada
+— Me alegro mucho — dijo la araña sonriente, — entonces, si no os parece mal, vuelvo a mi telaraña, creo que puedo echar una siesta antes de la hora de la siguiente comida — dijo mientras empezaba a trepar suavemente por su hilo. — ¿Seguro que no tenéis ningún mosquito con vosotras, aunque sea pequeñito? — preguntó a la desesperada.
 
 — Seguro, señora araña, que duerma bien — dijo una hormiga de txero mientras despedía a la araña agitando una de sus patas delanteras.
 
@@ -1198,7 +1200,7 @@ Cuando la araña llegó de vuelta a su tela de araña, se dió media vuelta haci
 
 Las hormigas de txero, txuri y txari se recuperaron rápidamente y continuaron la marcha escaleras arriba, ahora con un ritmo más rápido pues no querían tener ya más sorpresas.
 
-Cuando todas las hormigas de txuri, txari y txuri estuvieron dentro de la habitación hicieron una respiración muy profunda, se miraron unas a otras y, después de un intenso silencio empezaron a dar saltos de alegría y a reír y a abrazarse unas a otras. Formaban una escena muy peculiar, miles de hormigas dando pequeños saltos y agarrándose unas a otras mientras daban vueltas por el suelo.
+Cuando todas las hormigas de txuri, txari y txeri estuvieron dentro de la habitación hicieron una respiración muy profunda, se miraron unas a otras y después de un intenso silencio empezaron a dar saltos de alegría y a reír y a abrazarse unas a otras. Formaban una escena muy peculiar, miles de hormigas dando pequeños saltos y agarrándose unas a otras mientras daban vueltas por el suelo.
 
 ![image alt text](/assets/image_78.jpg)
 
@@ -1208,7 +1210,7 @@ Hasta que las hormigas de txero empezaron a vibrar.
 
 — Creo que ya está pasando — dijeron todas las hormigas de txero al mismo tiempo.
 
-Y en un sólo instante todas las hormigas de txero saltaron a la vez, se juntaron en un gran montón que palpitó una vez hacia dentro y luego otra vez hacia afuera y cuando lo hizo, txero, el txero humano con todo su cuerpo apareció y por un segundo se quedó suspendido en el aire justo el tiempo suficiente para que las hormigas de txari y txuri que estaban debajo consiguieran huir corriendo. El cuerpo de txero cayó al suelo con un gran estruendo.
+Y en un sólo instante todas las hormigas de txero saltaron a la vez, se juntaron en un gran montón que palpitó una vez hacia dentro y luego otra vez hacia afuera y cuando lo hizo, txero, el txero humano con todo su cuerpo apareció y por un segundo se quedó suspendido en el aire justo el tiempo suficiente para que las hormigas de txari y txuri, que estaban debajo, consiguieran huir corriendo. El cuerpo de txero cayó al suelo con un gran estruendo.
 
 — ¡Aich! — consiguió decir txero, y su voz y todo su cuerpo le parecían extraños.
 
@@ -1230,41 +1232,41 @@ Y en un sólo instante todas las hormigas de txero saltaron a la vez, se juntaro
 
 Y los tres amigos se abrazaron y saltaron y rieron, por un buen rato, hasta que de puro cansancio ya no podían más.
 
-Era tarde, había sido un día lleno de aventuras, y de encuentros con nuevos amigos. Ahora ya era hora de meterse en la cama. Tenían que descansar, ¿quién sabe lo que les podía esperar el nuevo día?
+Era tarde, había sido un día lleno de aventuras y de encuentros con nuevos amigos. Ahora ya era hora de meterse en la cama. Tenían que descansar, ¿quién sabe lo que les podía esperar el nuevo día?
 
-txuri, txari y txero se hundieron en un profundo sueño. Sus ojos vibraban en sus sueños y sus bocas dibujaban sonrisas pues estaban recordando todas su aventuras y sus nuevos amigos.
+txuri, txari y txero se hundieron en un profundo sueño. Sus ojos vibraban mientras dormían y sus bocas dibujaban sonrisas pues estaban recordando todas su aventuras y sus nuevos amigos.
 
 ![image alt text](/assets/image_80.jpg)
 
 Justo antes de que saliera el sol y cuando aún todavía txuri, txero y txari seguían profundamente dormidos un llanto al pié de sus camas los despertó.
 
-— No está — dijo el monstruo verde con la cara llena de lágrimas, — se ha perdido, estoy seguro.
+— ¡No está! — dijo el monstruo verde con la cara llena de lágrimas, — se ha perdido, estoy seguro.
 
-txuri, txero y txari se frotaron los ojos para poder ver claramente al gigante monstruo de su habitación que estaba acurrucado en el suelo justo afuera del armario.
+txuri, txero y txari se frotaron los ojos para poder ver claramente al gigantesco monstruo de su habitación que estaba acurrucado en el suelo justo afuera del armario.
 
-— Pero, amigo monstruo, qué te pasa — dijo txari que ya se había acercado a él y le hablaba agachándose a la altura de sus ojos.
+— Pero, amigo monstruo, ¿qué te pasa? — dijo txari que ya se había acercado a él y le hablaba agachándose a la altura de sus ojos.
 
 Y txero y txuri también se acercaron preocupados.
 
-— No está — dijo el monstruo verde entre pequeños sollozos — y sacó de su regazo un enorme diente blanco para enseñarselo a nuestros amigos.
+— No está — dijo el monstruo verde entre pequeños sollozos y sacó de su regazo un enorme diente blanco para enseñarselo a nuestros amigos.
 
 ![image alt text](/assets/image_81.jpg)
 
 txari lo cogió con cuidado y comprobó que era blando y muy suave.
 
-— Es un diente de monstruo — dijo volviendo a txero y txuri
+— Es un diente de monstruo — dijo volviendose a txero y txuri.
 
 — ¿Un diente de monstruo? — dijo txuri frunciendo el ceño.
 
-— Es del otro monstruo — dijo txero que ahora comprendía lo que ha pasado
+— Es del otro monstruo — dijo txero que ahora comprendía lo que estaba pasando.
 
 — Sí, es un diente de mi amigo monstruo — dijo el monstruo mirando a nuestros amigos mientras intentaba secarse las lágrimas. — Algo malo le ha pasado, él nunca dejaría uno de sus dientes por ahí abandonado.
 
 txuri, txari y txero se miraron y se comunicaban sin palabras.
 
-— Lo he buscado por todas partes, por todos los rincones del armario, pero no está, se ha perdido. — Dijo el monstruo ahora gritando desesperado y volviendo a romper a llorar.
+— ¡Lo he buscado por todas partes, por todos los rincones del armario, pero no está, se ha perdido! — dijo el monstruo ahora gritando desesperado y volviendo a romper a llorar.
 
-txuri, txari y txero sabían lo que estaba pasando, era el comienzo de otro viaje, posiblemente más lleno de aventuras que el del día anterior.
+txuri, txari y txero se empezaban a dar cuenta de algo: era el comienzo de otra aventura, posiblemente más llena de emociones y fantásticos encuentros que las del día anterior.
 
 — No te preocupes amigo monstruo — dijo txari al monstruo ayudándole a levantarse — nosotros te ayudaremos a encontrarlo.
 
